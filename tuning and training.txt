@@ -1,0 +1,570 @@
+c:\Python312\Lib\site-packages\tqdm\auto.py:21: TqdmWarning: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+  from .autonotebook import tqdm as notebook_tqdm
+[I 2025-01-25 22:46:19,254] A new study created in memory with name: no-name-e159f6f3-6db0-4996-b2aa-639d65db5599
+C:\Users\Pratik\AppData\Local\Temp\ipykernel_9312\617576488.py:157: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  lr = trial.suggest_loguniform('lr', 1e-5, 1e-2)
+C:\Users\Pratik\AppData\Local\Temp\ipykernel_9312\617576488.py:158: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  gamma = trial.suggest_uniform('gamma', 0.9, 0.999)
+C:\Users\Pratik\AppData\Local\Temp\ipykernel_9312\617576488.py:159: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  epsilon_decay = trial.suggest_uniform('epsilon_decay', 0.9, 0.9999)
+C:\Users\Pratik\AppData\Local\Temp\ipykernel_9312\617576488.py:134: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\torch\csrc\utils\tensor_new.cpp:281.)
+  states = torch.FloatTensor(states)
+[I 2025-01-25 22:46:24,017] Trial 0 finished with value: 0.09 and parameters: {'lr': 5.0162296981949915e-05, 'gamma': 0.9165498858772388, 'epsilon_decay': 0.9292892272301145, 'batch_size': 63, 'buffer_capacity': 10215}. Best is trial 0 with value: 0.09.
+C:\Users\Pratik\AppData\Local\Temp\ipykernel_9312\617576488.py:157: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  lr = trial.suggest_loguniform('lr', 1e-5, 1e-2)
+C:\Users\Pratik\AppData\Local\Temp\ipykernel_9312\617576488.py:158: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  gamma = trial.suggest_uniform('gamma', 0.9, 0.999)
+C:\Users\Pratik\AppData\Local\Temp\ipykernel_9312\617576488.py:159: FutureWarning: suggest_uniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float instead.
+  epsilon_decay = trial.suggest_uniform('epsilon_decay', 0.9, 0.9999)
+[I 2025-01-25 22:47:06,851] Trial 1 finished with value: 1.08 and parameters: {'lr': 0.003099764074656719, 'gamma': 0.9123681398590742, 'epsilon_decay': 0.9566471552465944, 'batch_size': 56, 'buffer_capacity': 5115}. Best is trial 1 with value: 1.08.
+[I 2025-01-25 22:47:58,176] Trial 2 finished with value: 2.08 and parameters: {'lr': 0.00028860606363554064, 'gamma': 0.9022349994862776, 'epsilon_decay': 0.9347751300037986, 'batch_size': 122, 'buffer_capacity': 12659}. Best is trial 2 with value: 2.08.
+[I 2025-01-25 22:48:45,956] Trial 3 finished with value: 0.98 and parameters: {'lr': 0.0035481147463515147, 'gamma': 0.9452252658621607, 'epsilon_decay': 0.9151551446691308, 'batch_size': 87, 'buffer_capacity': 14455}. Best is trial 2 with value: 2.08.
+[I 2025-01-25 22:49:01,911] Trial 4 finished with value: 0.15 and parameters: {'lr': 0.0022924554921449035, 'gamma': 0.9669720434080661, 'epsilon_decay': 0.9907698848853227, 'batch_size': 92, 'buffer_capacity': 11710}. Best is trial 2 with value: 2.08.
+[I 2025-01-25 22:49:43,849] Trial 5 finished with value: 3.04 and parameters: {'lr': 0.0008679540595402045, 'gamma': 0.9066546471630402, 'epsilon_decay': 0.900737224663579, 'batch_size': 32, 'buffer_capacity': 11674}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:50:39,931] Trial 6 finished with value: 0.89 and parameters: {'lr': 0.0014276849000406518, 'gamma': 0.9366581820733363, 'epsilon_decay': 0.906233939151153, 'batch_size': 90, 'buffer_capacity': 7564}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:50:43,249] Trial 7 finished with value: 0.09 and parameters: {'lr': 1.685356456482484e-05, 'gamma': 0.9933831166260386, 'epsilon_decay': 0.926099849059883, 'batch_size': 80, 'buffer_capacity': 5956}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:51:29,245] Trial 8 finished with value: 2.93 and parameters: {'lr': 0.0003035639781823959, 'gamma': 0.9672534908845406, 'epsilon_decay': 0.9531723006508857, 'batch_size': 47, 'buffer_capacity': 10083}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:52:17,500] Trial 9 finished with value: 1.75 and parameters: {'lr': 0.0006363279145192933, 'gamma': 0.9396200420574216, 'epsilon_decay': 0.9309565475712143, 'batch_size': 64, 'buffer_capacity': 19116}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:52:21,227] Trial 10 finished with value: 0.15 and parameters: {'lr': 6.699044419764123e-05, 'gamma': 0.9196225293192513, 'epsilon_decay': 0.9768559212758104, 'batch_size': 41, 'buffer_capacity': 16411}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:53:04,901] Trial 11 finished with value: 2.14 and parameters: {'lr': 0.000336711784937584, 'gamma': 0.9672268291479562, 'epsilon_decay': 0.9540921720969088, 'batch_size': 35, 'buffer_capacity': 9354}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:53:18,425] Trial 12 finished with value: 1.49 and parameters: {'lr': 0.00014816240102863068, 'gamma': 0.9669414967900786, 'epsilon_decay': 0.9671555542620759, 'batch_size': 48, 'buffer_capacity': 13954}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:53:59,893] Trial 13 finished with value: 1.62 and parameters: {'lr': 0.0009055996507019978, 'gamma': 0.9894256992119559, 'epsilon_decay': 0.9438057590373882, 'batch_size': 33, 'buffer_capacity': 8953}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:54:44,538] Trial 14 finished with value: 1.12 and parameters: {'lr': 0.009339032123118127, 'gamma': 0.9577729359209995, 'epsilon_decay': 0.9023089022501918, 'batch_size': 53, 'buffer_capacity': 11531}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:54:56,603] Trial 15 finished with value: 2.74 and parameters: {'lr': 0.00014545483094513078, 'gamma': 0.9801455046958609, 'epsilon_decay': 0.972596535352715, 'batch_size': 71, 'buffer_capacity': 16363}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:55:03,579] Trial 16 finished with value: 0.21 and parameters: {'lr': 0.00043949485993420784, 'gamma': 0.9258795907686027, 'epsilon_decay': 0.9987947823946647, 'batch_size': 108, 'buffer_capacity': 7550}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:55:34,955] Trial 17 finished with value: 2.54 and parameters: {'lr': 0.00014298881635676738, 'gamma': 0.9306915589799187, 'epsilon_decay': 0.9452932450024719, 'batch_size': 45, 'buffer_capacity': 10876}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:55:41,181] Trial 18 finished with value: 0.09 and parameters: {'lr': 1.7115149281948566e-05, 'gamma': 0.9548014125489678, 'epsilon_decay': 0.9182841888785507, 'batch_size': 32, 'buffer_capacity': 13270}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:56:52,018] Trial 19 finished with value: 1.21 and parameters: {'lr': 0.009895512716007075, 'gamma': 0.977362687389991, 'epsilon_decay': 0.9603716574249542, 'batch_size': 72, 'buffer_capacity': 7776}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:57:31,190] Trial 20 finished with value: 1.62 and parameters: {'lr': 0.0011796050161541958, 'gamma': 0.9003327436265067, 'epsilon_decay': 0.9838080481345679, 'batch_size': 44, 'buffer_capacity': 15320}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:57:40,571] Trial 21 finished with value: 0.57 and parameters: {'lr': 0.00013006990012809884, 'gamma': 0.981857266271784, 'epsilon_decay': 0.9748280681727217, 'batch_size': 61, 'buffer_capacity': 17669}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:58:18,055] Trial 22 finished with value: 2.84 and parameters: {'lr': 0.0002408792265066279, 'gamma': 0.9783967727962821, 'epsilon_decay': 0.9686887010251937, 'batch_size': 72, 'buffer_capacity': 16339}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:58:59,916] Trial 23 finished with value: 2.0 and parameters: {'lr': 0.0003060272619031138, 'gamma': 0.9597456330239984, 'epsilon_decay': 0.9392493768688451, 'batch_size': 104, 'buffer_capacity': 19702}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:59:03,907] Trial 24 finished with value: 0.12 and parameters: {'lr': 5.1127081465549727e-05, 'gamma': 0.9747926356622291, 'epsilon_decay': 0.963648473994822, 'batch_size': 54, 'buffer_capacity': 9844}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 22:59:55,426] Trial 25 finished with value: 2.31 and parameters: {'lr': 0.0007650167995395486, 'gamma': 0.9880693015931296, 'epsilon_decay': 0.9449474896740915, 'batch_size': 40, 'buffer_capacity': 12081}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 23:00:56,216] Trial 26 finished with value: 2.02 and parameters: {'lr': 0.0005106777050748681, 'gamma': 0.9489140075798759, 'epsilon_decay': 0.9537270341945147, 'batch_size': 76, 'buffer_capacity': 18109}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 23:01:07,957] Trial 27 finished with value: 0.98 and parameters: {'lr': 0.00021572020508946193, 'gamma': 0.9963629025007681, 'epsilon_decay': 0.9834392902515103, 'batch_size': 49, 'buffer_capacity': 15164}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 23:01:12,817] Trial 28 finished with value: 0.09 and parameters: {'lr': 8.117466160198105e-05, 'gamma': 0.9702904407439763, 'epsilon_decay': 0.9666038358213607, 'batch_size': 99, 'buffer_capacity': 13084}. Best is trial 5 with value: 3.04.
+[I 2025-01-25 23:02:30,349] Trial 29 finished with value: 4.13 and parameters: {'lr': 0.0017186541737939157, 'gamma': 0.9086067604849463, 'epsilon_decay': 0.9235140363948833, 'batch_size': 65, 'buffer_capacity': 10629}. Best is trial 29 with value: 4.13.
+[I 2025-01-25 23:03:11,978] Trial 30 finished with value: 1.01 and parameters: {'lr': 0.005445781683821984, 'gamma': 0.9089178891474896, 'epsilon_decay': 0.9120325758692527, 'batch_size': 63, 'buffer_capacity': 10680}. Best is trial 29 with value: 4.13.
+[I 2025-01-25 23:04:02,816] Trial 31 finished with value: 2.09 and parameters: {'lr': 0.0016590748571466887, 'gamma': 0.9193394140935124, 'epsilon_decay': 0.9241232973684654, 'batch_size': 60, 'buffer_capacity': 9032}. Best is trial 29 with value: 4.13.
+[I 2025-01-25 23:04:50,843] Trial 32 finished with value: 1.64 and parameters: {'lr': 0.0009053758548367564, 'gamma': 0.910749754216912, 'epsilon_decay': 0.9086930318388508, 'batch_size': 68, 'buffer_capacity': 10431}. Best is trial 29 with value: 4.13.
+[I 2025-01-25 23:05:47,380] Trial 33 finished with value: 1.22 and parameters: {'lr': 0.0023776903547753077, 'gamma': 0.9045769248578799, 'epsilon_decay': 0.9207643956038135, 'batch_size': 39, 'buffer_capacity': 8229}. Best is trial 29 with value: 4.13.
+[I 2025-01-25 23:06:40,327] Trial 34 finished with value: 2.97 and parameters: {'lr': 0.00023184773361962797, 'gamma': 0.9242187598182264, 'epsilon_decay': 0.9004978141504675, 'batch_size': 84, 'buffer_capacity': 11047}. Best is trial 29 with value: 4.13.
+[I 2025-01-25 23:07:29,851] Trial 35 finished with value: 4.88 and parameters: {'lr': 0.0004732894860712292, 'gamma': 0.9256627497370382, 'epsilon_decay': 0.9031288954516895, 'batch_size': 84, 'buffer_capacity': 11103}. Best is trial 35 with value: 4.88.
+[I 2025-01-25 23:08:23,692] Trial 36 finished with value: 1.23 and parameters: {'lr': 0.004655851440875752, 'gamma': 0.914923692623383, 'epsilon_decay': 0.9002291885608215, 'batch_size': 117, 'buffer_capacity': 11663}. Best is trial 35 with value: 4.88.
+[I 2025-01-25 23:09:17,184] Trial 37 finished with value: 1.54 and parameters: {'lr': 0.001764373778356666, 'gamma': 0.9302230902149417, 'epsilon_decay': 0.9064592689037886, 'batch_size': 82, 'buffer_capacity': 12822}. Best is trial 35 with value: 4.88.
+[I 2025-01-25 23:09:20,428] Trial 38 finished with value: 0.1 and parameters: {'lr': 2.6429749440441377e-05, 'gamma': 0.924734547681372, 'epsilon_decay': 0.9138039750446355, 'batch_size': 94, 'buffer_capacity': 11287}. Best is trial 35 with value: 4.88.
+[I 2025-01-25 23:10:30,722] Trial 39 finished with value: 5.0 and parameters: {'lr': 0.00044664127574267317, 'gamma': 0.9059969729435619, 'epsilon_decay': 0.9033796237631456, 'batch_size': 84, 'buffer_capacity': 6233}. Best is trial 39 with value: 5.0.
+[I 2025-01-25 23:11:39,031] Trial 40 finished with value: 2.63 and parameters: {'lr': 0.0012365993507892352, 'gamma': 0.9061829685856131, 'epsilon_decay': 0.9303966790757675, 'batch_size': 88, 'buffer_capacity': 5030}. Best is trial 39 with value: 5.0.
+[I 2025-01-25 23:12:52,580] Trial 41 finished with value: 1.4 and parameters: {'lr': 0.0005327007040995362, 'gamma': 0.9147724146898251, 'epsilon_decay': 0.9042131991279415, 'batch_size': 82, 'buffer_capacity': 12143}. Best is trial 39 with value: 5.0.
+[I 2025-01-25 23:14:18,282] Trial 42 finished with value: 2.39 and parameters: {'lr': 0.00037554519722051186, 'gamma': 0.9215452527833946, 'epsilon_decay': 0.9081649079822647, 'batch_size': 85, 'buffer_capacity': 7131}. Best is trial 39 with value: 5.0.
+[I 2025-01-25 23:15:09,113] Trial 43 finished with value: 1.42 and parameters: {'lr': 0.0006608594509110216, 'gamma': 0.9109065155935853, 'epsilon_decay': 0.9166367222892549, 'batch_size': 78, 'buffer_capacity': 13737}. Best is trial 39 with value: 5.0.
+[I 2025-01-25 23:15:50,180] Trial 44 finished with value: 1.98 and parameters: {'lr': 0.002616177055425784, 'gamma': 0.9388257145499006, 'epsilon_decay': 0.9112144610114771, 'batch_size': 93, 'buffer_capacity': 9607}. Best is trial 39 with value: 5.0.
+[I 2025-01-25 23:16:43,443] Trial 45 finished with value: 2.35 and parameters: {'lr': 0.00018354072122080462, 'gamma': 0.9051450552013548, 'epsilon_decay': 0.9019385317455167, 'batch_size': 98, 'buffer_capacity': 6061}. Best is trial 39 with value: 5.0.
+[I 2025-01-25 23:17:39,036] Trial 46 finished with value: 2.26 and parameters: {'lr': 0.0003973447797211415, 'gamma': 0.9000150602381395, 'epsilon_decay': 0.9002540252002311, 'batch_size': 78, 'buffer_capacity': 6598}. Best is trial 39 with value: 5.0.
+[I 2025-01-25 23:17:42,206] Trial 47 finished with value: 0.14 and parameters: {'lr': 9.574469622278225e-05, 'gamma': 0.9333753705879034, 'epsilon_decay': 0.9248318690716432, 'batch_size': 86, 'buffer_capacity': 8459}. Best is trial 39 with value: 5.0.
+[I 2025-01-25 23:18:37,752] Trial 48 finished with value: 1.62 and parameters: {'lr': 0.0010061610793966847, 'gamma': 0.9177989671587402, 'epsilon_decay': 0.9364497836091601, 'batch_size': 67, 'buffer_capacity': 12496}. Best is trial 39 with value: 5.0.
+[I 2025-01-25 23:20:07,046] Trial 49 finished with value: 5.0 and parameters: {'lr': 0.0006335633481086216, 'gamma': 0.924551718588312, 'epsilon_decay': 0.9203571960165101, 'batch_size': 112, 'buffer_capacity': 11220}. Best is trial 39 with value: 5.0.
+Best hyperparameters:  {'lr': 0.00044664127574267317, 'gamma': 0.9059969729435619, 'epsilon_decay': 0.9033796237631456, 'batch_size': 84, 'buffer_capacity': 6233}
+
+
+Episode 0, Total Reward: 21.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 1, Total Reward: 12.0, Terminated due to: Pole angle exceeded: -0.23 radians
+Episode 2, Total Reward: 33.0, Terminated due to: Pole angle exceeded: -0.22 radians
+Episode 3, Total Reward: 13.0, Terminated due to: Pole angle exceeded: -0.24 radians
+Episode 4, Total Reward: 53.0, Terminated due to: Pole angle exceeded: 0.23 radians
+Episode 5, Total Reward: 19.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 6, Total Reward: 10.0, Terminated due to: Pole angle exceeded: 0.23 radians
+Episode 7, Total Reward: 11.0, Terminated due to: Pole angle exceeded: 0.24 radians
+Episode 8, Total Reward: 16.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 9, Total Reward: 9.0, Terminated due to: Pole angle exceeded: -0.22 radians
+Episode 10, Total Reward: 11.0, Terminated due to: Pole angle exceeded: -0.24 radians
+Episode 11, Total Reward: 10.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 12, Total Reward: 14.0, Terminated due to: Pole angle exceeded: -0.23 radians
+Episode 13, Total Reward: 9.0, Terminated due to: Pole angle exceeded: -0.24 radians
+Episode 14, Total Reward: 8.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 15, Total Reward: 27.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 16, Total Reward: 18.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 17, Total Reward: 14.0, Terminated due to: Pole angle exceeded: 0.23 radians
+Episode 18, Total Reward: 11.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 19, Total Reward: 17.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 20, Total Reward: 17.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 21, Total Reward: 14.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 22, Total Reward: 38.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 23, Total Reward: 75.0, Terminated due to: Pole angle exceeded: -0.25 radians
+Episode 24, Total Reward: 77.0, Terminated due to: Pole angle exceeded: -0.25 radians
+Episode 25, Total Reward: 99.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 26, Total Reward: 195.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 27, Total Reward: 195.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 28, Total Reward: 325.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 29, Total Reward: 217.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 30, Total Reward: 226.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 31, Total Reward: 269.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 32, Total Reward: 233.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 33, Total Reward: 259.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 34, Total Reward: 195.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 35, Total Reward: 238.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 36, Total Reward: 300.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 37, Total Reward: 221.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 38, Total Reward: 269.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 39, Total Reward: 291.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 40, Total Reward: 313.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 41, Total Reward: 476.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 42, Total Reward: 296.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 43, Total Reward: 468.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 44, Total Reward: 305.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 45, Total Reward: 307.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 46, Total Reward: 251.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 47, Total Reward: 312.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 48, Total Reward: 268.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 49, Total Reward: 433.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 50, Total Reward: 465.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 51, Total Reward: 378.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 52, Total Reward: 500.0, Episode completed successfully
+Episode 53, Total Reward: 399.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 54, Total Reward: 454.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 55, Total Reward: 209.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 56, Total Reward: 372.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 57, Total Reward: 317.0, Terminated due to: Pole angle exceeded: 0.27 radians
+Episode 58, Total Reward: 450.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 59, Total Reward: 349.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 60, Total Reward: 211.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 61, Total Reward: 265.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 62, Total Reward: 308.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 63, Total Reward: 239.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 64, Total Reward: 500.0, Episode completed successfully
+Episode 65, Total Reward: 321.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 66, Total Reward: 295.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 67, Total Reward: 294.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 68, Total Reward: 310.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 69, Total Reward: 261.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 70, Total Reward: 332.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 71, Total Reward: 211.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 72, Total Reward: 256.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 73, Total Reward: 297.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 74, Total Reward: 265.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 75, Total Reward: 284.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 76, Total Reward: 228.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 77, Total Reward: 185.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 78, Total Reward: 199.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 79, Total Reward: 138.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 80, Total Reward: 169.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 81, Total Reward: 146.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 82, Total Reward: 132.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 83, Total Reward: 127.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 84, Total Reward: 161.0, Terminated due to: Cart moved out of bounds: 2.44m
+Episode 85, Total Reward: 141.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 86, Total Reward: 199.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 87, Total Reward: 213.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 88, Total Reward: 185.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 89, Total Reward: 237.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 90, Total Reward: 134.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 91, Total Reward: 278.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 92, Total Reward: 172.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 93, Total Reward: 199.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 94, Total Reward: 191.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 95, Total Reward: 258.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 96, Total Reward: 256.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 97, Total Reward: 165.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 98, Total Reward: 142.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 99, Total Reward: 163.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 100, Total Reward: 128.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 101, Total Reward: 176.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 102, Total Reward: 170.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 103, Total Reward: 153.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 104, Total Reward: 151.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 105, Total Reward: 136.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 106, Total Reward: 209.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 107, Total Reward: 167.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 108, Total Reward: 118.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 109, Total Reward: 133.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 110, Total Reward: 176.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 111, Total Reward: 156.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 112, Total Reward: 147.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 113, Total Reward: 203.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 114, Total Reward: 168.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 115, Total Reward: 295.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 116, Total Reward: 226.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 117, Total Reward: 238.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 118, Total Reward: 214.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 119, Total Reward: 171.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 120, Total Reward: 150.0, Terminated due to: Cart moved out of bounds: 2.44m
+Episode 121, Total Reward: 244.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 122, Total Reward: 297.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 123, Total Reward: 140.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 124, Total Reward: 148.0, Terminated due to: Cart moved out of bounds: 2.44m
+Episode 125, Total Reward: 156.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 126, Total Reward: 188.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 127, Total Reward: 184.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 128, Total Reward: 174.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 129, Total Reward: 210.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 130, Total Reward: 137.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 131, Total Reward: 174.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 132, Total Reward: 161.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 133, Total Reward: 136.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 134, Total Reward: 143.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 135, Total Reward: 146.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 136, Total Reward: 500.0, Episode completed successfully
+Episode 137, Total Reward: 441.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 138, Total Reward: 243.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 139, Total Reward: 303.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 140, Total Reward: 343.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 141, Total Reward: 456.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 142, Total Reward: 152.0, Terminated due to: Cart moved out of bounds: 2.45m
+Episode 143, Total Reward: 376.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 144, Total Reward: 168.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 145, Total Reward: 482.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 146, Total Reward: 139.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 147, Total Reward: 111.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 148, Total Reward: 111.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 149, Total Reward: 118.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 150, Total Reward: 142.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 151, Total Reward: 460.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 152, Total Reward: 166.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 153, Total Reward: 125.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 154, Total Reward: 130.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 155, Total Reward: 115.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 156, Total Reward: 120.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 157, Total Reward: 221.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 158, Total Reward: 86.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 159, Total Reward: 110.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 160, Total Reward: 147.0, Terminated due to: Pole angle exceeded: 0.23 radians
+Episode 161, Total Reward: 131.0, Terminated due to: Pole angle exceeded: -0.22 radians
+Episode 162, Total Reward: 55.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 163, Total Reward: 60.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 164, Total Reward: 51.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 165, Total Reward: 145.0, Terminated due to: Pole angle exceeded: -0.22 radians
+Episode 166, Total Reward: 132.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 167, Total Reward: 27.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 168, Total Reward: 46.0, Terminated due to: Pole angle exceeded: -0.23 radians
+Episode 169, Total Reward: 46.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 170, Total Reward: 93.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 171, Total Reward: 117.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 172, Total Reward: 15.0, Terminated due to: Pole angle exceeded: -0.22 radians
+Episode 173, Total Reward: 234.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 174, Total Reward: 38.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 175, Total Reward: 164.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 176, Total Reward: 213.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 177, Total Reward: 155.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 178, Total Reward: 173.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 179, Total Reward: 138.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 180, Total Reward: 122.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 181, Total Reward: 183.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 182, Total Reward: 500.0, Episode completed successfully
+Episode 183, Total Reward: 162.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 184, Total Reward: 135.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 185, Total Reward: 165.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 186, Total Reward: 134.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 187, Total Reward: 125.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 188, Total Reward: 112.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 189, Total Reward: 119.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 190, Total Reward: 129.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 191, Total Reward: 152.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 192, Total Reward: 175.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 193, Total Reward: 500.0, Episode completed successfully
+Episode 194, Total Reward: 243.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 195, Total Reward: 500.0, Episode completed successfully
+Episode 196, Total Reward: 500.0, Episode completed successfully
+Episode 197, Total Reward: 478.0, Terminated due to: Pole angle exceeded: -0.22 radians
+Episode 198, Total Reward: 479.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 199, Total Reward: 492.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 200, Total Reward: 228.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 201, Total Reward: 421.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 202, Total Reward: 151.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 203, Total Reward: 146.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 204, Total Reward: 142.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 205, Total Reward: 159.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 206, Total Reward: 142.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 207, Total Reward: 237.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 208, Total Reward: 262.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 209, Total Reward: 208.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 210, Total Reward: 233.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 211, Total Reward: 277.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 212, Total Reward: 301.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 213, Total Reward: 483.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 214, Total Reward: 467.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 215, Total Reward: 159.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 216, Total Reward: 270.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 217, Total Reward: 482.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 218, Total Reward: 245.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 219, Total Reward: 500.0, Episode completed successfully
+Episode 220, Total Reward: 428.0, Terminated due to: Pole angle exceeded: 0.23 radians
+Episode 221, Total Reward: 500.0, Episode completed successfully
+Episode 222, Total Reward: 180.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 223, Total Reward: 224.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 224, Total Reward: 205.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 225, Total Reward: 189.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 226, Total Reward: 261.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 227, Total Reward: 219.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 228, Total Reward: 172.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 229, Total Reward: 143.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 230, Total Reward: 229.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 231, Total Reward: 245.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 232, Total Reward: 228.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 233, Total Reward: 157.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 234, Total Reward: 208.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 235, Total Reward: 276.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 236, Total Reward: 207.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 237, Total Reward: 203.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 238, Total Reward: 94.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 239, Total Reward: 78.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 240, Total Reward: 315.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 241, Total Reward: 169.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 242, Total Reward: 210.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 243, Total Reward: 164.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 244, Total Reward: 133.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 245, Total Reward: 148.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 246, Total Reward: 155.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 247, Total Reward: 175.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 248, Total Reward: 156.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 249, Total Reward: 178.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 250, Total Reward: 175.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 251, Total Reward: 223.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 252, Total Reward: 220.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 253, Total Reward: 180.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 254, Total Reward: 148.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 255, Total Reward: 148.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 256, Total Reward: 157.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 257, Total Reward: 139.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 258, Total Reward: 198.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 259, Total Reward: 156.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 260, Total Reward: 157.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 261, Total Reward: 167.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 262, Total Reward: 160.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 263, Total Reward: 175.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 264, Total Reward: 190.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 265, Total Reward: 458.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 266, Total Reward: 192.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 267, Total Reward: 271.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 268, Total Reward: 235.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 269, Total Reward: 287.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 270, Total Reward: 164.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 271, Total Reward: 139.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 272, Total Reward: 127.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 273, Total Reward: 127.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 274, Total Reward: 136.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 275, Total Reward: 140.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 276, Total Reward: 145.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 277, Total Reward: 154.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 278, Total Reward: 162.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 279, Total Reward: 198.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 280, Total Reward: 173.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 281, Total Reward: 500.0, Episode completed successfully
+Episode 282, Total Reward: 462.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 283, Total Reward: 382.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 284, Total Reward: 153.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 285, Total Reward: 203.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 286, Total Reward: 225.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 287, Total Reward: 210.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 288, Total Reward: 174.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 289, Total Reward: 140.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 290, Total Reward: 130.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 291, Total Reward: 163.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 292, Total Reward: 157.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 293, Total Reward: 159.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 294, Total Reward: 149.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 295, Total Reward: 236.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 296, Total Reward: 425.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 297, Total Reward: 156.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 298, Total Reward: 184.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 299, Total Reward: 181.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 300, Total Reward: 143.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 301, Total Reward: 134.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 302, Total Reward: 169.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 303, Total Reward: 135.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 304, Total Reward: 154.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 305, Total Reward: 200.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 306, Total Reward: 222.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 307, Total Reward: 293.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 308, Total Reward: 128.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 309, Total Reward: 129.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 310, Total Reward: 145.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 311, Total Reward: 135.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 312, Total Reward: 136.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 313, Total Reward: 155.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 314, Total Reward: 156.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 315, Total Reward: 143.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 316, Total Reward: 144.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 317, Total Reward: 162.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 318, Total Reward: 127.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 319, Total Reward: 130.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 320, Total Reward: 129.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 321, Total Reward: 157.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 322, Total Reward: 128.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 323, Total Reward: 163.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 324, Total Reward: 137.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 325, Total Reward: 132.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 326, Total Reward: 136.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 327, Total Reward: 111.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 328, Total Reward: 118.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 329, Total Reward: 121.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 330, Total Reward: 131.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 331, Total Reward: 123.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 332, Total Reward: 130.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 333, Total Reward: 137.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 334, Total Reward: 142.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 335, Total Reward: 142.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 336, Total Reward: 153.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 337, Total Reward: 150.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 338, Total Reward: 207.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 339, Total Reward: 139.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 340, Total Reward: 133.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 341, Total Reward: 118.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 342, Total Reward: 130.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 343, Total Reward: 135.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 344, Total Reward: 129.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 345, Total Reward: 119.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 346, Total Reward: 115.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 347, Total Reward: 141.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 348, Total Reward: 138.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 349, Total Reward: 130.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 350, Total Reward: 121.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 351, Total Reward: 109.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 352, Total Reward: 134.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 353, Total Reward: 154.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 354, Total Reward: 115.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 355, Total Reward: 24.0, Terminated due to: Pole angle exceeded: -0.22 radians
+Episode 356, Total Reward: 140.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 357, Total Reward: 16.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 358, Total Reward: 140.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 359, Total Reward: 224.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 360, Total Reward: 297.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 361, Total Reward: 171.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 362, Total Reward: 237.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 363, Total Reward: 240.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 364, Total Reward: 209.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 365, Total Reward: 429.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 366, Total Reward: 159.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 367, Total Reward: 192.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 368, Total Reward: 155.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 369, Total Reward: 196.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 370, Total Reward: 194.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 371, Total Reward: 181.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 372, Total Reward: 398.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 373, Total Reward: 200.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 374, Total Reward: 171.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 375, Total Reward: 179.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 376, Total Reward: 200.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 377, Total Reward: 188.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 378, Total Reward: 190.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 379, Total Reward: 174.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 380, Total Reward: 319.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 381, Total Reward: 177.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 382, Total Reward: 290.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 383, Total Reward: 201.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 384, Total Reward: 175.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 385, Total Reward: 154.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 386, Total Reward: 303.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 387, Total Reward: 210.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 388, Total Reward: 202.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 389, Total Reward: 180.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 390, Total Reward: 173.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 391, Total Reward: 190.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 392, Total Reward: 206.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 393, Total Reward: 212.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 394, Total Reward: 170.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 395, Total Reward: 213.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 396, Total Reward: 173.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 397, Total Reward: 177.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 398, Total Reward: 188.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 399, Total Reward: 177.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 400, Total Reward: 244.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 401, Total Reward: 191.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 402, Total Reward: 190.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 403, Total Reward: 173.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 404, Total Reward: 169.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 405, Total Reward: 218.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 406, Total Reward: 199.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 407, Total Reward: 185.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 408, Total Reward: 163.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 409, Total Reward: 173.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 410, Total Reward: 202.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 411, Total Reward: 145.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 412, Total Reward: 242.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 413, Total Reward: 180.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 414, Total Reward: 205.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 415, Total Reward: 200.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 416, Total Reward: 177.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 417, Total Reward: 160.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 418, Total Reward: 166.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 419, Total Reward: 189.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 420, Total Reward: 178.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 421, Total Reward: 160.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 422, Total Reward: 187.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 423, Total Reward: 187.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 424, Total Reward: 165.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 425, Total Reward: 165.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 426, Total Reward: 158.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 427, Total Reward: 219.0, Terminated due to: Pole angle exceeded: -0.22 radians
+Episode 428, Total Reward: 177.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 429, Total Reward: 197.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 430, Total Reward: 176.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 431, Total Reward: 170.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 432, Total Reward: 210.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 433, Total Reward: 207.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 434, Total Reward: 182.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 435, Total Reward: 211.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 436, Total Reward: 330.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 437, Total Reward: 116.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 438, Total Reward: 251.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 439, Total Reward: 148.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 440, Total Reward: 95.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 441, Total Reward: 273.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 442, Total Reward: 263.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 443, Total Reward: 193.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 444, Total Reward: 191.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 445, Total Reward: 175.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 446, Total Reward: 193.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 447, Total Reward: 169.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 448, Total Reward: 174.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 449, Total Reward: 233.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 450, Total Reward: 247.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 451, Total Reward: 155.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 452, Total Reward: 183.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 453, Total Reward: 125.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 454, Total Reward: 129.0, Terminated due to: Pole angle exceeded: -0.22 radians
+Episode 455, Total Reward: 149.0, Terminated due to: Pole angle exceeded: -0.21 radians
+Episode 456, Total Reward: 139.0, Terminated due to: Pole angle exceeded: -0.22 radians
+Episode 457, Total Reward: 160.0, Terminated due to: Pole angle exceeded: -0.23 radians
+Episode 458, Total Reward: 169.0, Terminated due to: Pole angle exceeded: -0.22 radians
+Episode 459, Total Reward: 209.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 460, Total Reward: 185.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 461, Total Reward: 239.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 462, Total Reward: 318.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 463, Total Reward: 216.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 464, Total Reward: 175.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 465, Total Reward: 202.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 466, Total Reward: 176.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 467, Total Reward: 195.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 468, Total Reward: 140.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 469, Total Reward: 127.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 470, Total Reward: 188.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 471, Total Reward: 167.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 472, Total Reward: 147.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 473, Total Reward: 160.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 474, Total Reward: 166.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 475, Total Reward: 160.0, Terminated due to: Pole angle exceeded: 0.21 radians
+Episode 476, Total Reward: 174.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 477, Total Reward: 145.0, Terminated due to: Cart moved out of bounds: -2.40m
+Episode 478, Total Reward: 137.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 479, Total Reward: 138.0, Terminated due to: Cart moved out of bounds: -2.44m
+Episode 480, Total Reward: 140.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 481, Total Reward: 150.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 482, Total Reward: 287.0, Terminated due to: Cart moved out of bounds: -2.43m
+Episode 483, Total Reward: 148.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 484, Total Reward: 160.0, Terminated due to: Pole angle exceeded: 0.22 radians
+Episode 485, Total Reward: 164.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 486, Total Reward: 204.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 487, Total Reward: 154.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 488, Total Reward: 144.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 489, Total Reward: 139.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 490, Total Reward: 142.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 491, Total Reward: 145.0, Terminated due to: Cart moved out of bounds: 2.43m
+Episode 492, Total Reward: 171.0, Terminated due to: Cart moved out of bounds: -2.42m
+Episode 493, Total Reward: 152.0, Terminated due to: Cart moved out of bounds: 2.42m
+Episode 494, Total Reward: 281.0, Terminated due to: Cart moved out of bounds: 2.41m
+Episode 495, Total Reward: 139.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 496, Total Reward: 148.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 497, Total Reward: 124.0, Terminated due to: Cart moved out of bounds: -2.41m
+Episode 498, Total Reward: 185.0, Terminated due to: Cart moved out of bounds: 2.40m
+Episode 499, Total Reward: 220.0, Terminated due to: Cart moved out of bounds: 2.41m
