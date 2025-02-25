@@ -1,0 +1,5265 @@
+
+
+=== Episode 1 ===
+Initial Batteries:
+MDs: [3960 4571 3622]
+ESs: [15474 18260]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 4236.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 3485.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 4190.0mAh
+  ES0 battery: 15342.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 3895.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3440.0mAh
+  ES0 battery: 15221.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 3798.0mAh
+Task 7 (491MB) - Device: MD2
+  Energy used: 224.6mAh
+  MD2 battery: 3215.0mAh
+Task 8 (439MB) - Device: MD1
+  Energy used: 526.8mAh
+  MD1 battery: 3663.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3708.0mAh
+  ES1 battery: 18122.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 3016.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 2150.7mAh
+Final MD batteries: [3708 3663 3016]
+Final ES batteries: [15221 18122]
+Total reward: 48.5
+Epsilon: 1.000
+
+
+=== Episode 2 ===
+Initial Batteries:
+MDs: [3508 3905 3022]
+ESs: [11791 18835]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 3570.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 2885.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3524.0mAh
+  ES1 battery: 18728.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 3481.0mAh
+  ES0 battery: 11740.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 2840.0mAh
+  ES1 battery: 18630.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3441.0mAh
+  ES0 battery: 11665.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 2773.0mAh
+  ES1 battery: 18484.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3468.0mAh
+  ES1 battery: 18354.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 3221.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 2574.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1769.7mAh
+Final MD batteries: [3221 3468 2574]
+Final ES batteries: [11665 18354]
+Total reward: 52.3
+Epsilon: 1.000
+
+
+=== Episode 3 ===
+Initial Batteries:
+MDs: [4086 4853 4153]
+ESs: [19899 18421]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4817.0mAh
+  ES1 battery: 18338.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 4016.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4771.0mAh
+  ES1 battery: 18231.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 4021.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 3865.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3981.0mAh
+  ES0 battery: 19824.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3798.0mAh
+  ES1 battery: 18085.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4715.0mAh
+  ES1 battery: 17955.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 3761.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3739.0mAh
+  ES0 battery: 19665.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1568.8mAh
+Final MD batteries: [3761 4715 3739]
+Final ES batteries: [19665 17955]
+Total reward: 54.3
+Epsilon: 1.000
+
+
+=== Episode 4 ===
+Initial Batteries:
+MDs: [4001 3235 3248]
+ESs: [11534 10975]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 3199.0mAh
+  ES0 battery: 11431.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3207.0mAh
+  ES1 battery: 10886.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3153.0mAh
+  ES1 battery: 10779.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 3936.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 3056.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3896.0mAh
+  ES1 battery: 10719.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 2989.0mAh
+  ES0 battery: 11251.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3097.0mAh
+  ES1 battery: 10589.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 3676.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 2930.0mAh
+  ES0 battery: 11092.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1601.3mAh
+Final MD batteries: [3676 3097 2930]
+Final ES batteries: [11092 10589]
+Total reward: 54.0
+Epsilon: 1.000
+
+
+=== Episode 5 ===
+Initial Batteries:
+MDs: [4492 4924 3852]
+ESs: [19367 19930]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4888.0mAh
+  ES0 battery: 19264.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 3715.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4842.0mAh
+  ES1 battery: 19823.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 4427.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3670.0mAh
+  ES0 battery: 19143.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4387.0mAh
+  ES0 battery: 19068.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3603.0mAh
+  ES0 battery: 18888.0mAh
+Task 8 (439MB) - Device: MD1
+  Energy used: 526.8mAh
+  MD1 battery: 4315.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4297.0mAh
+  ES1 battery: 19685.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3544.0mAh
+  ES1 battery: 19557.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1956.2mAh
+Final MD batteries: [4297 4315 3544]
+Final ES batteries: [18888 19557]
+Total reward: 50.4
+Epsilon: 1.000
+
+
+=== Episode 6 ===
+Initial Batteries:
+MDs: [3493 4023 4190]
+ESs: [16257 18759]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 3688.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4149.0mAh
+  ES1 battery: 18670.0mAh
+Task 3 (359MB) - Device: MD1
+  Energy used: 430.8mAh
+  MD1 battery: 3257.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 3428.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 3998.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3388.0mAh
+  ES0 battery: 16182.0mAh
+Task 7 (491MB) - Device: MD2
+  Energy used: 224.6mAh
+  MD2 battery: 3773.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3201.0mAh
+  ES0 battery: 16021.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3298.0mAh
+  ES0 battery: 15851.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3714.0mAh
+  ES1 battery: 18542.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 2110.7mAh
+Final MD batteries: [3298 3201 3714]
+Final ES batteries: [15851 18542]
+Total reward: 48.9
+Epsilon: 1.000
+
+
+=== Episode 7 ===
+Initial Batteries:
+MDs: [4150 3065 4606]
+ESs: [10547 10073]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 3029.0mAh
+  ES0 battery: 10444.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 4565.0mAh
+  ES0 battery: 10334.0mAh
+Task 3 (359MB) - Device: MD1
+  Energy used: 430.8mAh
+  MD1 battery: 2598.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 4085.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4520.0mAh
+  ES1 battery: 9975.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 3988.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4453.0mAh
+  ES1 battery: 9829.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 2542.0mAh
+  ES1 battery: 9699.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 3768.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4394.0mAh
+  ES1 battery: 9571.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1824.9mAh
+Final MD batteries: [3768 2542 4394]
+Final ES batteries: [10334  9571]
+Total reward: 51.8
+Epsilon: 0.970
+
+
+=== Episode 8 ===
+Initial Batteries:
+MDs: [3658 4805 3396]
+ESs: [14789 11570]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 4470.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3355.0mAh
+  ES1 battery: 11481.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4424.0mAh
+  ES1 battery: 11374.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3631.0mAh
+  ES1 battery: 11333.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3310.0mAh
+  ES1 battery: 11235.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3591.0mAh
+  ES0 battery: 14714.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3243.0mAh
+  ES0 battery: 14534.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4368.0mAh
+  ES1 battery: 11105.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3501.0mAh
+  ES1 battery: 10967.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3184.0mAh
+  ES0 battery: 14375.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1813.5mAh
+Final MD batteries: [3501 4368 3184]
+Final ES batteries: [14375 10967]
+Total reward: 51.9
+Epsilon: 0.923
+
+
+=== Episode 9 ===
+Initial Batteries:
+MDs: [3451 4802 3281]
+ESs: [10114 19974]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 4467.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 3240.0mAh
+  ES0 battery: 10004.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 4421.0mAh
+  ES0 battery: 9872.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 3386.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 3089.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3346.0mAh
+  ES1 battery: 19914.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3022.0mAh
+  ES1 battery: 19768.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4365.0mAh
+  ES1 battery: 19638.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3256.0mAh
+  ES1 battery: 19500.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 2963.0mAh
+  ES0 battery: 9713.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1817.3mAh
+Final MD batteries: [3256 4365 2963]
+Final ES batteries: [ 9713 19500]
+Total reward: 51.8
+Epsilon: 0.878
+
+
+=== Episode 10 ===
+Initial Batteries:
+MDs: [3079 3465 3558]
+ESs: [17333 14759]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 3429.0mAh
+  ES0 battery: 17230.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 3421.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3383.0mAh
+  ES1 battery: 14652.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 3052.0mAh
+  ES0 battery: 17179.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3376.0mAh
+  ES1 battery: 14554.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3012.0mAh
+  ES1 battery: 14494.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3309.0mAh
+  ES0 battery: 16999.0mAh
+Task 8 (439MB) - Device: MD1
+  Energy used: 526.8mAh
+  MD1 battery: 2856.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 2922.0mAh
+  ES1 battery: 14356.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3250.0mAh
+  ES1 battery: 14228.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1930.1mAh
+Final MD batteries: [2922 2856 3250]
+Final ES batteries: [16999 14228]
+Total reward: 50.7
+Epsilon: 0.835
+
+
+=== Episode 11 ===
+Initial Batteries:
+MDs: [3595 4300 3540]
+ESs: [14551 18175]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4264.0mAh
+  ES0 battery: 14448.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3499.0mAh
+  ES1 battery: 18086.0mAh
+Task 3 (359MB) - Device: MD1
+  Energy used: 430.8mAh
+  MD1 battery: 3833.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 3530.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3454.0mAh
+  ES1 battery: 17988.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3490.0mAh
+  ES0 battery: 14373.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3387.0mAh
+  ES1 battery: 17842.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3777.0mAh
+  ES1 battery: 17712.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3400.0mAh
+  ES0 battery: 14203.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3328.0mAh
+  ES0 battery: 14044.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1891.6mAh
+Final MD batteries: [3400 3777 3328]
+Final ES batteries: [14044 17712]
+Total reward: 51.1
+Epsilon: 0.794
+
+
+=== Episode 12 ===
+Initial Batteries:
+MDs: [3838 4251 4522]
+ESs: [18996 18389]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4215.0mAh
+  ES0 battery: 18893.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4481.0mAh
+  ES1 battery: 18300.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 4169.0mAh
+  ES0 battery: 18761.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 3811.0mAh
+  ES0 battery: 18710.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 4436.0mAh
+  ES0 battery: 18589.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3771.0mAh
+  ES1 battery: 18240.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4369.0mAh
+  ES1 battery: 18094.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 4113.0mAh
+  ES0 battery: 18428.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3681.0mAh
+  ES0 battery: 18258.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 4310.0mAh
+  ES0 battery: 18099.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1689.4mAh
+Final MD batteries: [3681 4113 4310]
+Final ES batteries: [18099 18094]
+Total reward: 53.1
+Epsilon: 0.755
+
+
+=== Episode 13 ===
+Initial Batteries:
+MDs: [3052 3154 4787]
+ESs: [14390 10112]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3118.0mAh
+  ES1 battery: 10029.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 4650.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 3072.0mAh
+  ES0 battery: 14258.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 3025.0mAh
+  ES0 battery: 14207.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 4605.0mAh
+  ES0 battery: 14086.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 2985.0mAh
+  ES0 battery: 14011.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 4538.0mAh
+  ES0 battery: 13831.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3016.0mAh
+  ES0 battery: 13670.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 2765.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 4339.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1667.2mAh
+Final MD batteries: [2765 3016 4339]
+Final ES batteries: [13670 10029]
+Total reward: 53.3
+Epsilon: 0.718
+
+
+=== Episode 14 ===
+Initial Batteries:
+MDs: [4735 3731 3377]
+ESs: [14980 14998]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 3695.0mAh
+  ES0 battery: 14877.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 3240.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 3649.0mAh
+  ES0 battery: 14745.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 4708.0mAh
+  ES0 battery: 14694.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 3089.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4668.0mAh
+  ES0 battery: 14619.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3022.0mAh
+  ES0 battery: 14439.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3593.0mAh
+  ES0 battery: 14278.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 4578.0mAh
+  ES0 battery: 14108.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 2963.0mAh
+  ES0 battery: 13949.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1731.4mAh
+Final MD batteries: [4578 3593 2963]
+Final ES batteries: [13949 14998]
+Total reward: 52.7
+Epsilon: 0.683
+
+
+=== Episode 15 ===
+Initial Batteries:
+MDs: [3252 4279 4198]
+ESs: [15040 19244]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4243.0mAh
+  ES0 battery: 14937.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 4157.0mAh
+  ES0 battery: 14827.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 4197.0mAh
+  ES0 battery: 14695.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 3225.0mAh
+  ES0 battery: 14644.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 4112.0mAh
+  ES0 battery: 14523.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3185.0mAh
+  ES1 battery: 19184.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 4045.0mAh
+  ES0 battery: 14343.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 4141.0mAh
+  ES0 battery: 14182.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3095.0mAh
+  ES0 battery: 14012.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 3846.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1725.8mAh
+Final MD batteries: [3095 4141 3846]
+Final ES batteries: [14012 19184]
+Total reward: 52.7
+Epsilon: 0.650
+
+
+=== Episode 16 ===
+Initial Batteries:
+MDs: [3945 4335 3718]
+ESs: [14968 18517]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 4000.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 3677.0mAh
+  ES0 battery: 14858.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 3954.0mAh
+  ES0 battery: 14726.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 3918.0mAh
+  ES0 battery: 14675.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3632.0mAh
+  ES1 battery: 18419.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3878.0mAh
+  ES0 battery: 14600.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3565.0mAh
+  ES0 battery: 14420.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3898.0mAh
+  ES0 battery: 14259.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3788.0mAh
+  ES0 battery: 14089.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 3366.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1914.2mAh
+Final MD batteries: [3788 3898 3366]
+Final ES batteries: [14089 18419]
+Total reward: 50.9
+Epsilon: 0.618
+
+
+=== Episode 17 ===
+Initial Batteries:
+MDs: [4043 4059 4474]
+ESs: [19243 14160]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4023.0mAh
+  ES0 battery: 19140.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4433.0mAh
+  ES1 battery: 14071.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3977.0mAh
+  ES1 battery: 13964.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4016.0mAh
+  ES1 battery: 13923.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 4282.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3976.0mAh
+  ES0 battery: 19065.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 4215.0mAh
+  ES0 battery: 18885.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3921.0mAh
+  ES1 battery: 13793.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 3756.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 4156.0mAh
+  ES0 battery: 18726.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1617.7mAh
+Final MD batteries: [3756 3921 4156]
+Final ES batteries: [18726 13793]
+Total reward: 53.8
+Epsilon: 0.588
+
+
+=== Episode 18 ===
+Initial Batteries:
+MDs: [3062 3676 4299]
+ESs: [19473 16689]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 3640.0mAh
+  ES0 battery: 19370.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 4162.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 3594.0mAh
+  ES0 battery: 19238.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 2997.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 4117.0mAh
+  ES0 battery: 19117.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 2900.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 4050.0mAh
+  ES0 battery: 18937.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3538.0mAh
+  ES0 battery: 18776.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 2680.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3991.0mAh
+  ES0 battery: 18617.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1677.4mAh
+Final MD batteries: [2680 3538 3991]
+Final ES batteries: [18617 16689]
+Total reward: 53.2
+Epsilon: 0.559
+
+
+=== Episode 19 ===
+Initial Batteries:
+MDs: [4510 4778 3144]
+ESs: [14787 16567]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4742.0mAh
+  ES0 battery: 14684.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3103.0mAh
+  ES1 battery: 16478.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 4696.0mAh
+  ES0 battery: 14552.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 4445.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3058.0mAh
+  ES0 battery: 14431.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 4348.0mAh
+Task 7 (491MB) - Device: MD2
+  Energy used: 224.6mAh
+  MD2 battery: 2833.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 4640.0mAh
+  ES0 battery: 14270.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 4258.0mAh
+  ES0 battery: 14100.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 2774.0mAh
+  ES0 battery: 13941.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1687.3mAh
+Final MD batteries: [4258 4640 2774]
+Final ES batteries: [13941 16478]
+Total reward: 53.1
+Epsilon: 0.532
+
+
+=== Episode 20 ===
+Initial Batteries:
+MDs: [4844 4163 4644]
+ESs: [15346 13548]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4127.0mAh
+  ES0 battery: 15243.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 4507.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 4081.0mAh
+  ES0 battery: 15111.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 4779.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 4356.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4739.0mAh
+  ES0 battery: 15036.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 4289.0mAh
+  ES0 battery: 14856.0mAh
+Task 8 (439MB) - Device: MD1
+  Energy used: 526.8mAh
+  MD1 battery: 3554.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 4519.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 4230.0mAh
+  ES0 battery: 14697.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1990.6mAh
+Final MD batteries: [4519 3554 4230]
+Final ES batteries: [14697 13548]
+Total reward: 50.1
+Epsilon: 0.506
+
+
+=== Episode 21 ===
+Initial Batteries:
+MDs: [4693 4365 4499]
+ESs: [14481 14752]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4329.0mAh
+  ES0 battery: 14378.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 4362.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 4283.0mAh
+  ES0 battery: 14246.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 4666.0mAh
+  ES0 battery: 14195.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 4317.0mAh
+  ES0 battery: 14074.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4626.0mAh
+  ES0 battery: 13999.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4250.0mAh
+  ES1 battery: 14606.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 4227.0mAh
+  ES0 battery: 13838.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4536.0mAh
+  ES1 battery: 14468.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 4051.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1659.1mAh
+Final MD batteries: [4536 4227 4051]
+Final ES batteries: [13838 14468]
+Total reward: 53.4
+Epsilon: 0.481
+
+
+=== Episode 22 ===
+Initial Batteries:
+MDs: [3234 4470 4491]
+ESs: [10263 14942]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4434.0mAh
+  ES1 battery: 14859.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 4450.0mAh
+  ES0 battery: 10153.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 4388.0mAh
+  ES0 battery: 10021.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 3207.0mAh
+  ES0 battery: 9970.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4405.0mAh
+  ES1 battery: 14761.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3167.0mAh
+  ES0 battery: 9895.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 4338.0mAh
+  ES0 battery: 9715.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 4332.0mAh
+  ES0 battery: 9554.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3077.0mAh
+  ES0 battery: 9384.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 4279.0mAh
+  ES0 battery: 9225.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1716.5mAh
+Final MD batteries: [3077 4332 4279]
+Final ES batteries: [ 9225 14761]
+Total reward: 52.8
+Epsilon: 0.458
+
+
+=== Episode 23 ===
+Initial Batteries:
+MDs: [4378 4767 3317]
+ESs: [16266 19283]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4731.0mAh
+  ES0 battery: 16163.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 3276.0mAh
+  ES0 battery: 16053.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4685.0mAh
+  ES1 battery: 19176.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 4351.0mAh
+  ES0 battery: 16002.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3231.0mAh
+  ES0 battery: 15881.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4311.0mAh
+  ES0 battery: 15806.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3164.0mAh
+  ES1 battery: 19030.0mAh
+Task 8 (439MB) - Device: MD1
+  Energy used: 526.8mAh
+  MD1 battery: 4158.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 4221.0mAh
+  ES0 battery: 15636.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 2965.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1990.6mAh
+Final MD batteries: [4221 4158 2965]
+Final ES batteries: [15636 19030]
+Total reward: 50.1
+Epsilon: 0.435
+
+
+=== Episode 24 ===
+Initial Batteries:
+MDs: [3737 4148 3212]
+ESs: [16512 10232]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4112.0mAh
+  ES0 battery: 16409.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3171.0mAh
+  ES1 battery: 10143.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 4066.0mAh
+  ES0 battery: 16277.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 3672.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 3020.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 3575.0mAh
+Task 7 (491MB) - Device: MD2
+  Energy used: 224.6mAh
+  MD2 battery: 2795.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4010.0mAh
+  ES1 battery: 10013.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 3355.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 2736.0mAh
+  ES0 battery: 16118.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1601.6mAh
+Final MD batteries: [3355 4010 2736]
+Final ES batteries: [16118 10013]
+Total reward: 54.0
+Epsilon: 0.414
+
+
+=== Episode 25 ===
+Initial Batteries:
+MDs: [3223 4069 4086]
+ESs: [15704 14465]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 3734.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 3949.0mAh
+Task 3 (359MB) - Device: MD1
+  Energy used: 430.8mAh
+  MD1 battery: 3303.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 3196.0mAh
+  ES0 battery: 15653.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 3798.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3156.0mAh
+  ES1 battery: 14405.0mAh
+Task 7 (491MB) - Device: MD2
+  Energy used: 224.6mAh
+  MD2 battery: 3573.0mAh
+Task 8 (439MB) - Device: MD1
+  Energy used: 526.8mAh
+  MD1 battery: 2776.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3066.0mAh
+  ES1 battery: 14267.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3514.0mAh
+  ES1 battery: 14139.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 2393.5mAh
+Final MD batteries: [3066 2776 3514]
+Final ES batteries: [15653 14139]
+Total reward: 46.1
+Epsilon: 0.394
+
+
+=== Episode 26 ===
+Initial Batteries:
+MDs: [3233 3029 3942]
+ESs: [12200 18967]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 2993.0mAh
+  ES1 battery: 18884.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 3805.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 2947.0mAh
+  ES1 battery: 18777.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3206.0mAh
+  ES1 battery: 18736.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3760.0mAh
+  ES1 battery: 18638.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 3109.0mAh
+Task 7 (491MB) - Device: MD2
+  Energy used: 224.6mAh
+  MD2 battery: 3535.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 2891.0mAh
+  ES0 battery: 12039.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3019.0mAh
+  ES0 battery: 11869.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 3336.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1609.0mAh
+Final MD batteries: [3019 2891 3336]
+Final ES batteries: [11869 18638]
+Total reward: 53.9
+Epsilon: 0.374
+
+
+=== Episode 27 ===
+Initial Batteries:
+MDs: [3060 3226 4245]
+ESs: [18489 13362]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 3190.0mAh
+  ES0 battery: 18386.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 4204.0mAh
+  ES0 battery: 18276.0mAh
+Task 3 (359MB) - Device: MD1
+  Energy used: 430.8mAh
+  MD1 battery: 2759.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 3033.0mAh
+  ES0 battery: 18225.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 4159.0mAh
+  ES0 battery: 18104.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 2993.0mAh
+  ES0 battery: 18029.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 4092.0mAh
+  ES0 battery: 17849.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 2703.0mAh
+  ES0 battery: 17688.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 2903.0mAh
+  ES0 battery: 17518.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 4033.0mAh
+  ES0 battery: 17359.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 2013.7mAh
+Final MD batteries: [2903 2703 4033]
+Final ES batteries: [17359 13362]
+Total reward: 49.9
+Epsilon: 0.356
+
+
+=== Episode 28 ===
+Initial Batteries:
+MDs: [3928 4386 3911]
+ESs: [11402 14015]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4350.0mAh
+  ES0 battery: 11299.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 3870.0mAh
+  ES0 battery: 11189.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 4304.0mAh
+  ES0 battery: 11057.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 3863.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3825.0mAh
+  ES0 battery: 10936.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 3766.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3758.0mAh
+  ES0 battery: 10756.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 4248.0mAh
+  ES0 battery: 10595.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3676.0mAh
+  ES1 battery: 13877.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3699.0mAh
+  ES1 battery: 13749.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1667.0mAh
+Final MD batteries: [3676 4248 3699]
+Final ES batteries: [10595 13749]
+Total reward: 53.3
+Epsilon: 0.339
+
+
+=== Episode 29 ===
+Initial Batteries:
+MDs: [3332 4777 3270]
+ESs: [15134 17099]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4741.0mAh
+  ES0 battery: 15031.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3229.0mAh
+  ES1 battery: 17010.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 4695.0mAh
+  ES0 battery: 14899.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 3305.0mAh
+  ES0 battery: 14848.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3184.0mAh
+  ES0 battery: 14727.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3265.0mAh
+  ES0 battery: 14652.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3117.0mAh
+  ES0 battery: 14472.0mAh
+Task 8 (439MB) - Device: MD1
+  Energy used: 526.8mAh
+  MD1 battery: 4168.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3175.0mAh
+  ES0 battery: 14302.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3058.0mAh
+  ES1 battery: 16882.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 2018.5mAh
+Final MD batteries: [3175 4168 3058]
+Final ES batteries: [14302 16882]
+Total reward: 49.8
+Epsilon: 0.322
+
+
+=== Episode 30 ===
+Initial Batteries:
+MDs: [3715 3974 3375]
+ESs: [18313 13436]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 3938.0mAh
+  ES0 battery: 18210.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 3334.0mAh
+  ES0 battery: 18100.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 3892.0mAh
+  ES0 battery: 17968.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3688.0mAh
+  ES1 battery: 13395.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3289.0mAh
+  ES0 battery: 17847.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3648.0mAh
+  ES1 battery: 13335.0mAh
+Task 7 (491MB) - Device: MD2
+  Energy used: 224.6mAh
+  MD2 battery: 3064.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3836.0mAh
+  ES1 battery: 13205.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3558.0mAh
+  ES1 battery: 13067.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3005.0mAh
+  ES1 battery: 12939.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1618.8mAh
+Final MD batteries: [3558 3836 3005]
+Final ES batteries: [17847 12939]
+Total reward: 53.8
+Epsilon: 0.306
+
+
+=== Episode 31 ===
+Initial Batteries:
+MDs: [4912 4585 4030]
+ESs: [16953 17982]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4549.0mAh
+  ES1 battery: 17899.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3989.0mAh
+  ES1 battery: 17810.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4503.0mAh
+  ES1 battery: 17703.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4885.0mAh
+  ES1 battery: 17662.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3944.0mAh
+  ES0 battery: 16832.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4845.0mAh
+  ES1 battery: 17602.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3877.0mAh
+  ES0 battery: 16652.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4447.0mAh
+  ES1 battery: 17472.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 4755.0mAh
+  ES0 battery: 16482.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3818.0mAh
+  ES0 battery: 16323.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1638.1mAh
+Final MD batteries: [4755 4447 3818]
+Final ES batteries: [16323 17472]
+Total reward: 53.6
+Epsilon: 0.291
+
+
+=== Episode 32 ===
+Initial Batteries:
+MDs: [4099 4201 4108]
+ESs: [14105 13893]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4165.0mAh
+  ES1 battery: 13810.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4067.0mAh
+  ES1 battery: 13721.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4119.0mAh
+  ES1 battery: 13614.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4072.0mAh
+  ES1 battery: 13573.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 4022.0mAh
+  ES0 battery: 13984.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4032.0mAh
+  ES0 battery: 13909.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3955.0mAh
+  ES0 battery: 13729.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 4063.0mAh
+  ES0 battery: 13568.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3942.0mAh
+  ES0 battery: 13398.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3896.0mAh
+  ES0 battery: 13239.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1683.6mAh
+Final MD batteries: [3942 4063 3896]
+Final ES batteries: [13239 13573]
+Total reward: 53.2
+Epsilon: 0.277
+
+
+=== Episode 33 ===
+Initial Batteries:
+MDs: [4883 4200 3875]
+ESs: [17229 17421]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4164.0mAh
+  ES0 battery: 17126.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 3834.0mAh
+  ES0 battery: 17016.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4118.0mAh
+  ES1 battery: 17314.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 4856.0mAh
+  ES0 battery: 16965.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3789.0mAh
+  ES0 battery: 16844.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4816.0mAh
+  ES0 battery: 16769.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3722.0mAh
+  ES0 battery: 16589.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4062.0mAh
+  ES1 battery: 17184.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 4726.0mAh
+  ES0 battery: 16419.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 3523.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1683.6mAh
+Final MD batteries: [4726 4062 3523]
+Final ES batteries: [16419 17184]
+Total reward: 53.2
+Epsilon: 0.264
+
+
+=== Episode 34 ===
+Initial Batteries:
+MDs: [4136 3933 4934]
+ESs: [10520 18520]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 3598.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4893.0mAh
+  ES1 battery: 18431.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 3552.0mAh
+  ES0 battery: 10388.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4109.0mAh
+  ES1 battery: 18390.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4848.0mAh
+  ES1 battery: 18292.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4069.0mAh
+  ES1 battery: 18232.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4781.0mAh
+  ES1 battery: 18086.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3496.0mAh
+  ES1 battery: 17956.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3979.0mAh
+  ES0 battery: 10218.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4722.0mAh
+  ES1 battery: 17828.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1791.9mAh
+Final MD batteries: [3979 3496 4722]
+Final ES batteries: [10218 17828]
+Total reward: 52.1
+Epsilon: 0.251
+
+
+=== Episode 35 ===
+Initial Batteries:
+MDs: [4139 3287 4792]
+ESs: [14505 13871]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3251.0mAh
+  ES1 battery: 13788.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4751.0mAh
+  ES1 battery: 13699.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3205.0mAh
+  ES1 battery: 13592.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 4074.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4706.0mAh
+  ES1 battery: 13494.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4034.0mAh
+  ES1 battery: 13434.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4639.0mAh
+  ES1 battery: 13288.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3149.0mAh
+  ES1 battery: 13158.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3944.0mAh
+  ES1 battery: 13020.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4580.0mAh
+  ES1 battery: 12892.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1514.4mAh
+Final MD batteries: [3944 3149 4580]
+Final ES batteries: [14505 12892]
+Total reward: 54.9
+Epsilon: 0.238
+
+
+=== Episode 36 ===
+Initial Batteries:
+MDs: [3229 4962 4137]
+ESs: [12360 10077]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4926.0mAh
+  ES1 battery: 9994.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4096.0mAh
+  ES1 battery: 9905.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4880.0mAh
+  ES1 battery: 9798.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3202.0mAh
+  ES1 battery: 9757.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4051.0mAh
+  ES1 battery: 9659.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3162.0mAh
+  ES1 battery: 9599.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3984.0mAh
+  ES1 battery: 9453.0mAh
+Task 8 (439MB) - Device: MD1
+  Energy used: 526.8mAh
+  MD1 battery: 4353.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3072.0mAh
+  ES1 battery: 9315.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3925.0mAh
+  ES1 battery: 9187.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1858.2mAh
+Final MD batteries: [3072 4353 3925]
+Final ES batteries: [12360  9187]
+Total reward: 51.4
+Epsilon: 0.227
+
+
+=== Episode 37 ===
+Initial Batteries:
+MDs: [3955 3974 3773]
+ESs: [12093 17048]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3938.0mAh
+  ES1 battery: 16965.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3732.0mAh
+  ES1 battery: 16876.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 3892.0mAh
+  ES0 battery: 11961.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3928.0mAh
+  ES1 battery: 16835.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3687.0mAh
+  ES1 battery: 16737.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3888.0mAh
+  ES0 battery: 11886.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3620.0mAh
+  ES1 battery: 16591.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3836.0mAh
+  ES1 battery: 16461.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 3668.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3561.0mAh
+  ES1 battery: 16333.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1549.3mAh
+Final MD batteries: [3668 3836 3561]
+Final ES batteries: [11886 16333]
+Total reward: 54.5
+Epsilon: 0.216
+
+
+=== Episode 38 ===
+Initial Batteries:
+MDs: [3056 4640 4555]
+ESs: [19349 18054]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4604.0mAh
+  ES1 battery: 17971.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4514.0mAh
+  ES1 battery: 17882.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4558.0mAh
+  ES1 battery: 17775.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3029.0mAh
+  ES1 battery: 17734.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4469.0mAh
+  ES1 battery: 17636.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 2989.0mAh
+  ES1 battery: 17576.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4402.0mAh
+  ES1 battery: 17430.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4502.0mAh
+  ES1 battery: 17300.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 2899.0mAh
+  ES1 battery: 17162.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4343.0mAh
+  ES1 battery: 17034.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [2899 4502 4343]
+Final ES batteries: [19349 17034]
+Total reward: 54.8
+Epsilon: 0.205
+
+
+=== Episode 39 ===
+Initial Batteries:
+MDs: [4593 3644 3352]
+ESs: [16235 16898]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3608.0mAh
+  ES1 battery: 16815.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3311.0mAh
+  ES1 battery: 16726.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 3562.0mAh
+  ES0 battery: 16103.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4566.0mAh
+  ES1 battery: 16685.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3266.0mAh
+  ES1 battery: 16587.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4526.0mAh
+  ES1 battery: 16527.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3199.0mAh
+  ES1 battery: 16381.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3506.0mAh
+  ES1 battery: 16251.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4436.0mAh
+  ES1 battery: 16113.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3140.0mAh
+  ES1 battery: 15985.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1541.8mAh
+Final MD batteries: [4436 3506 3140]
+Final ES batteries: [16103 15985]
+Total reward: 54.6
+Epsilon: 0.195
+
+
+=== Episode 40 ===
+Initial Batteries:
+MDs: [4233 4000 3417]
+ESs: [14644 11006]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 3665.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3376.0mAh
+  ES1 battery: 10917.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3619.0mAh
+  ES1 battery: 10810.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4206.0mAh
+  ES1 battery: 10769.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3331.0mAh
+  ES1 battery: 10671.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 4109.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3264.0mAh
+  ES1 battery: 10525.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3563.0mAh
+  ES1 battery: 10395.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4019.0mAh
+  ES1 battery: 10257.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3205.0mAh
+  ES1 battery: 10129.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1730.6mAh
+Final MD batteries: [4019 3563 3205]
+Final ES batteries: [14644 10129]
+Total reward: 52.7
+Epsilon: 0.186
+
+
+=== Episode 41 ===
+Initial Batteries:
+MDs: [4801 4826 4991]
+ESs: [15910 11537]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4790.0mAh
+  ES1 battery: 11454.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4950.0mAh
+  ES1 battery: 11365.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4744.0mAh
+  ES1 battery: 11258.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4774.0mAh
+  ES1 battery: 11217.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4905.0mAh
+  ES1 battery: 11119.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4734.0mAh
+  ES1 battery: 11059.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4838.0mAh
+  ES1 battery: 10913.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4688.0mAh
+  ES1 battery: 10783.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4644.0mAh
+  ES1 battery: 10645.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4779.0mAh
+  ES1 battery: 10517.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [4644 4688 4779]
+Final ES batteries: [15910 10517]
+Total reward: 54.8
+Epsilon: 0.177
+
+
+=== Episode 42 ===
+Initial Batteries:
+MDs: [4489 4843 4844]
+ESs: [13119 12824]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 4508.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4803.0mAh
+  ES1 battery: 12735.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4462.0mAh
+  ES1 battery: 12628.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 4424.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 4652.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4384.0mAh
+  ES1 battery: 12568.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4585.0mAh
+  ES1 battery: 12422.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4406.0mAh
+  ES1 battery: 12292.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4294.0mAh
+  ES1 battery: 12154.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4526.0mAh
+  ES1 battery: 12026.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1740.1mAh
+Final MD batteries: [4294 4406 4526]
+Final ES batteries: [13119 12026]
+Total reward: 52.6
+Epsilon: 0.168
+
+
+=== Episode 43 ===
+Initial Batteries:
+MDs: [3532 3329 3450]
+ESs: [11381 18590]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3293.0mAh
+  ES1 battery: 18507.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3409.0mAh
+  ES1 battery: 18418.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3247.0mAh
+  ES1 battery: 18311.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3505.0mAh
+  ES1 battery: 18270.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3364.0mAh
+  ES1 battery: 18172.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3465.0mAh
+  ES1 battery: 18112.0mAh
+Task 7 (491MB) - Device: MD2
+  Energy used: 224.6mAh
+  MD2 battery: 3139.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3191.0mAh
+  ES1 battery: 17982.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3375.0mAh
+  ES1 battery: 17844.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3080.0mAh
+  ES0 battery: 11222.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1559.8mAh
+Final MD batteries: [3375 3191 3080]
+Final ES batteries: [11222 17844]
+Total reward: 54.4
+Epsilon: 0.160
+
+
+=== Episode 44 ===
+Initial Batteries:
+MDs: [4147 3068 3844]
+ESs: [18910 15296]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3032.0mAh
+  ES1 battery: 15213.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 3707.0mAh
+Task 3 (359MB) - Device: MD1
+  Energy used: 430.8mAh
+  MD1 battery: 2601.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 4082.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 3556.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 3985.0mAh
+Task 7 (491MB) - Device: MD2
+  Energy used: 224.6mAh
+  MD2 battery: 3331.0mAh
+Task 8 (439MB) - Device: MD1
+  Energy used: 526.8mAh
+  MD1 battery: 2074.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3895.0mAh
+  ES0 battery: 18740.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3272.0mAh
+  ES1 battery: 15085.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 2194.4mAh
+Final MD batteries: [3895 2074 3272]
+Final ES batteries: [18740 15085]
+Total reward: 48.1
+Epsilon: 0.152
+
+
+=== Episode 45 ===
+Initial Batteries:
+MDs: [3601 4231 4107]
+ESs: [11436 16444]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4195.0mAh
+  ES1 battery: 16361.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4066.0mAh
+  ES1 battery: 16272.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4149.0mAh
+  ES1 battery: 16165.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3574.0mAh
+  ES1 battery: 16124.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4021.0mAh
+  ES1 battery: 16026.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3534.0mAh
+  ES1 battery: 15966.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3954.0mAh
+  ES1 battery: 15820.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4093.0mAh
+  ES1 battery: 15690.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3444.0mAh
+  ES1 battery: 15552.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3895.0mAh
+  ES1 battery: 15424.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [3444 4093 3895]
+Final ES batteries: [11436 15424]
+Total reward: 54.8
+Epsilon: 0.144
+
+
+=== Episode 46 ===
+Initial Batteries:
+MDs: [4556 4555 3802]
+ESs: [15852 16164]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4519.0mAh
+  ES1 battery: 16081.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 3761.0mAh
+  ES0 battery: 15742.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 4473.0mAh
+  ES0 battery: 15610.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4529.0mAh
+  ES1 battery: 16040.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3716.0mAh
+  ES0 battery: 15489.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4489.0mAh
+  ES0 battery: 15414.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3649.0mAh
+  ES0 battery: 15234.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 4417.0mAh
+  ES0 battery: 15073.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 4399.0mAh
+  ES0 battery: 14903.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3590.0mAh
+  ES0 battery: 14744.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1730.2mAh
+Final MD batteries: [4399 4417 3590]
+Final ES batteries: [14744 16040]
+Total reward: 52.7
+Epsilon: 0.137
+
+
+=== Episode 47 ===
+Initial Batteries:
+MDs: [4999 3169 3988]
+ESs: [13776 19666]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 3133.0mAh
+  ES0 battery: 13673.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 3947.0mAh
+  ES0 battery: 13563.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3087.0mAh
+  ES1 battery: 19559.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4972.0mAh
+  ES1 battery: 19518.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3902.0mAh
+  ES1 battery: 19420.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4932.0mAh
+  ES1 battery: 19360.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3835.0mAh
+  ES0 battery: 13383.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3031.0mAh
+  ES1 battery: 19230.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4842.0mAh
+  ES1 battery: 19092.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3776.0mAh
+  ES1 battery: 18964.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1592.1mAh
+Final MD batteries: [4842 3031 3776]
+Final ES batteries: [13383 18964]
+Total reward: 54.1
+Epsilon: 0.131
+
+
+=== Episode 48 ===
+Initial Batteries:
+MDs: [3936 4455 4247]
+ESs: [19014 11922]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4419.0mAh
+  ES1 battery: 11839.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4206.0mAh
+  ES1 battery: 11750.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4373.0mAh
+  ES1 battery: 11643.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3909.0mAh
+  ES1 battery: 11602.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4161.0mAh
+  ES1 battery: 11504.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 3812.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4094.0mAh
+  ES1 battery: 11358.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4317.0mAh
+  ES1 battery: 11228.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3722.0mAh
+  ES1 battery: 11090.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4035.0mAh
+  ES1 battery: 10962.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1513.4mAh
+Final MD batteries: [3722 4317 4035]
+Final ES batteries: [19014 10962]
+Total reward: 54.9
+Epsilon: 0.124
+
+
+=== Episode 49 ===
+Initial Batteries:
+MDs: [4374 4960 3043]
+ESs: [16608 17942]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4924.0mAh
+  ES1 battery: 17859.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3002.0mAh
+  ES1 battery: 17770.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4878.0mAh
+  ES1 battery: 17663.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4347.0mAh
+  ES1 battery: 17622.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 2957.0mAh
+  ES1 battery: 17524.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4307.0mAh
+  ES0 battery: 16533.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 2890.0mAh
+  ES1 battery: 17378.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4822.0mAh
+  ES1 battery: 17248.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4217.0mAh
+  ES1 battery: 17110.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 2831.0mAh
+  ES1 battery: 16982.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1530.8mAh
+Final MD batteries: [4217 4822 2831]
+Final ES batteries: [16533 16982]
+Total reward: 54.7
+Epsilon: 0.118
+
+
+=== Episode 50 ===
+Initial Batteries:
+MDs: [3333 3756 4571]
+ESs: [19464 14755]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3720.0mAh
+  ES1 battery: 14672.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4530.0mAh
+  ES1 battery: 14583.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3674.0mAh
+  ES1 battery: 14476.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3306.0mAh
+  ES1 battery: 14435.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4485.0mAh
+  ES1 battery: 14337.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3266.0mAh
+  ES1 battery: 14277.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4418.0mAh
+  ES1 battery: 14131.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3618.0mAh
+  ES1 battery: 14001.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3176.0mAh
+  ES1 battery: 13863.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4359.0mAh
+  ES1 battery: 13735.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [3176 3618 4359]
+Final ES batteries: [19464 13735]
+Total reward: 54.8
+Epsilon: 0.112
+
+
+=== Episode 51 ===
+Initial Batteries:
+MDs: [4351 4902 4593]
+ESs: [10180 18514]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 4567.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4552.0mAh
+  ES1 battery: 18425.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4521.0mAh
+  ES1 battery: 18318.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4324.0mAh
+  ES1 battery: 18277.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4507.0mAh
+  ES1 battery: 18179.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4284.0mAh
+  ES1 battery: 18119.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4440.0mAh
+  ES1 battery: 17973.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4465.0mAh
+  ES1 battery: 17843.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4194.0mAh
+  ES1 battery: 17705.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4381.0mAh
+  ES1 battery: 17577.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1733.6mAh
+Final MD batteries: [4194 4465 4381]
+Final ES batteries: [10180 17577]
+Total reward: 52.7
+Epsilon: 0.107
+
+
+=== Episode 52 ===
+Initial Batteries:
+MDs: [4663 4011 3677]
+ESs: [11601 15749]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3975.0mAh
+  ES1 battery: 15666.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3636.0mAh
+  ES1 battery: 15577.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3929.0mAh
+  ES1 battery: 15470.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4636.0mAh
+  ES1 battery: 15429.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3591.0mAh
+  ES1 battery: 15331.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4596.0mAh
+  ES1 battery: 15271.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3524.0mAh
+  ES1 battery: 15125.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3873.0mAh
+  ES1 battery: 14995.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4506.0mAh
+  ES1 battery: 14857.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3465.0mAh
+  ES1 battery: 14729.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [4506 3873 3465]
+Final ES batteries: [11601 14729]
+Total reward: 54.8
+Epsilon: 0.102
+
+
+=== Episode 53 ===
+Initial Batteries:
+MDs: [4759 4048 4900]
+ESs: [10550 10034]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4012.0mAh
+  ES1 battery: 9951.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4859.0mAh
+  ES1 battery: 9862.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3966.0mAh
+  ES1 battery: 9755.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4732.0mAh
+  ES1 battery: 9714.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4814.0mAh
+  ES1 battery: 9616.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4692.0mAh
+  ES0 battery: 10475.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4747.0mAh
+  ES1 battery: 9470.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3910.0mAh
+  ES0 battery: 10314.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 4472.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 4548.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1566.2mAh
+Final MD batteries: [4472 3910 4548]
+Final ES batteries: [10314  9470]
+Total reward: 54.3
+Epsilon: 0.097
+
+
+=== Episode 54 ===
+Initial Batteries:
+MDs: [3458 3152 3001]
+ESs: [16286 16741]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 2817.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 2864.0mAh
+Task 3 (359MB) - Device: MD1
+  Energy used: 430.8mAh
+  MD1 battery: 2386.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 3393.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 2713.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 3296.0mAh
+Task 7 (491MB) - Device: MD2
+  Energy used: 224.6mAh
+  MD2 battery: 2488.0mAh
+Task 8 (439MB) - Device: MD1
+  Energy used: 526.8mAh
+  MD1 battery: 1859.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 3076.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 2289.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 2383.0mAh
+Final MD batteries: [3076 1859 2289]
+Final ES batteries: [16286 16741]
+Total reward: 46.2
+Epsilon: 0.092
+
+
+=== Episode 55 ===
+Initial Batteries:
+MDs: [4088 3955 4093]
+ESs: [12854 16877]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3919.0mAh
+  ES1 battery: 16794.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4052.0mAh
+  ES1 battery: 16705.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3873.0mAh
+  ES1 battery: 16598.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4061.0mAh
+  ES1 battery: 16557.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4007.0mAh
+  ES1 battery: 16459.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4021.0mAh
+  ES1 battery: 16399.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3940.0mAh
+  ES1 battery: 16253.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3817.0mAh
+  ES1 battery: 16123.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3931.0mAh
+  ES1 battery: 15985.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3881.0mAh
+  ES1 battery: 15857.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [3931 3817 3881]
+Final ES batteries: [12854 15857]
+Total reward: 54.8
+Epsilon: 0.088
+
+
+=== Episode 56 ===
+Initial Batteries:
+MDs: [3450 3017 3008]
+ESs: [13556 17981]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 2981.0mAh
+  ES1 battery: 17898.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 2967.0mAh
+  ES1 battery: 17809.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 2935.0mAh
+  ES1 battery: 17702.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3423.0mAh
+  ES1 battery: 17661.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 2922.0mAh
+  ES1 battery: 17563.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3383.0mAh
+  ES1 battery: 17503.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 2855.0mAh
+  ES1 battery: 17357.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 2879.0mAh
+  ES0 battery: 13395.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3293.0mAh
+  ES1 battery: 17219.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 2796.0mAh
+  ES1 battery: 17091.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1547.5mAh
+Final MD batteries: [3293 2879 2796]
+Final ES batteries: [13395 17091]
+Total reward: 54.5
+Epsilon: 0.083
+
+
+=== Episode 57 ===
+Initial Batteries:
+MDs: [4719 3215 4289]
+ESs: [18724 12652]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3179.0mAh
+  ES1 battery: 12569.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4248.0mAh
+  ES1 battery: 12480.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3133.0mAh
+  ES1 battery: 12373.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4692.0mAh
+  ES1 battery: 12332.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4203.0mAh
+  ES1 battery: 12234.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4652.0mAh
+  ES1 battery: 12174.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4136.0mAh
+  ES1 battery: 12028.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3077.0mAh
+  ES1 battery: 11898.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4562.0mAh
+  ES1 battery: 11760.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 3937.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1527.6mAh
+Final MD batteries: [4562 3077 3937]
+Final ES batteries: [18724 11760]
+Total reward: 54.7
+Epsilon: 0.079
+
+
+=== Episode 58 ===
+Initial Batteries:
+MDs: [3288 3848 4787]
+ESs: [12062 19143]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3812.0mAh
+  ES1 battery: 19060.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 4650.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3766.0mAh
+  ES1 battery: 18953.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3261.0mAh
+  ES1 battery: 18912.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4605.0mAh
+  ES1 battery: 18814.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3221.0mAh
+  ES0 battery: 11987.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4538.0mAh
+  ES1 battery: 18668.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3710.0mAh
+  ES1 battery: 18538.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3131.0mAh
+  ES1 battery: 18400.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4479.0mAh
+  ES1 battery: 18272.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1538.5mAh
+Final MD batteries: [3131 3710 4479]
+Final ES batteries: [11987 18272]
+Total reward: 54.6
+Epsilon: 0.075
+
+
+=== Episode 59 ===
+Initial Batteries:
+MDs: [3059 4340 3270]
+ESs: [11001 18890]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4304.0mAh
+  ES1 battery: 18807.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3229.0mAh
+  ES1 battery: 18718.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4258.0mAh
+  ES1 battery: 18611.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3032.0mAh
+  ES1 battery: 18570.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3184.0mAh
+  ES1 battery: 18472.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 2992.0mAh
+  ES1 battery: 18412.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3117.0mAh
+  ES1 battery: 18266.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4202.0mAh
+  ES1 battery: 18136.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 2902.0mAh
+  ES1 battery: 17998.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3058.0mAh
+  ES1 battery: 17870.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [2902 4202 3058]
+Final ES batteries: [11001 17870]
+Total reward: 54.8
+Epsilon: 0.072
+
+
+=== Episode 60 ===
+Initial Batteries:
+MDs: [4289 3770 4661]
+ESs: [10175 13115]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3734.0mAh
+  ES1 battery: 13032.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4620.0mAh
+  ES1 battery: 12943.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3688.0mAh
+  ES1 battery: 12836.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4262.0mAh
+  ES1 battery: 12795.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 4575.0mAh
+  ES0 battery: 10054.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4222.0mAh
+  ES0 battery: 9979.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 4508.0mAh
+  ES0 battery: 9799.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3632.0mAh
+  ES0 battery: 9638.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 4002.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4449.0mAh
+  ES1 battery: 12667.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1613.2mAh
+Final MD batteries: [4002 3632 4449]
+Final ES batteries: [ 9638 12667]
+Total reward: 53.9
+Epsilon: 0.068
+
+
+=== Episode 61 ===
+Initial Batteries:
+MDs: [4425 3489 3252]
+ESs: [12626 12444]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3453.0mAh
+  ES1 battery: 12361.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3211.0mAh
+  ES1 battery: 12272.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3407.0mAh
+  ES1 battery: 12165.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4398.0mAh
+  ES1 battery: 12124.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3166.0mAh
+  ES1 battery: 12026.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4358.0mAh
+  ES1 battery: 11966.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3099.0mAh
+  ES1 battery: 11820.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3351.0mAh
+  ES1 battery: 11690.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4268.0mAh
+  ES1 battery: 11552.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3040.0mAh
+  ES1 battery: 11424.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [4268 3351 3040]
+Final ES batteries: [12626 11424]
+Total reward: 54.8
+Epsilon: 0.065
+
+
+=== Episode 62 ===
+Initial Batteries:
+MDs: [3423 4524 3866]
+ESs: [10187 19314]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4488.0mAh
+  ES1 battery: 19231.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3825.0mAh
+  ES1 battery: 19142.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4442.0mAh
+  ES1 battery: 19035.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3396.0mAh
+  ES1 battery: 18994.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3780.0mAh
+  ES1 battery: 18896.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3356.0mAh
+  ES1 battery: 18836.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3713.0mAh
+  ES1 battery: 18690.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4386.0mAh
+  ES1 battery: 18560.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3266.0mAh
+  ES1 battery: 18422.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3654.0mAh
+  ES1 battery: 18294.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [3266 4386 3654]
+Final ES batteries: [10187 18294]
+Total reward: 54.8
+Epsilon: 0.062
+
+
+=== Episode 63 ===
+Initial Batteries:
+MDs: [3694 4903 3594]
+ESs: [14976 12975]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4867.0mAh
+  ES1 battery: 12892.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3553.0mAh
+  ES1 battery: 12803.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4821.0mAh
+  ES1 battery: 12696.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3667.0mAh
+  ES1 battery: 12655.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3508.0mAh
+  ES0 battery: 14855.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3627.0mAh
+  ES0 battery: 14780.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3441.0mAh
+  ES0 battery: 14600.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 4765.0mAh
+  ES0 battery: 14439.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3537.0mAh
+  ES0 battery: 14269.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3382.0mAh
+  ES0 battery: 14110.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1683.6mAh
+Final MD batteries: [3537 4765 3382]
+Final ES batteries: [14110 12655]
+Total reward: 53.2
+Epsilon: 0.059
+
+
+=== Episode 64 ===
+Initial Batteries:
+MDs: [4864 3495 4558]
+ESs: [12135 12921]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 3459.0mAh
+  ES0 battery: 12032.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 4517.0mAh
+  ES0 battery: 11922.0mAh
+Task 3 (359MB) - Device: ES0
+  Energy used: 176.8mAh
+  MD1 battery: 3413.0mAh
+  ES0 battery: 11790.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 4837.0mAh
+  ES0 battery: 11739.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 4472.0mAh
+  ES0 battery: 11618.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4797.0mAh
+  ES0 battery: 11543.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 4405.0mAh
+  ES0 battery: 11363.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3357.0mAh
+  ES0 battery: 11202.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4707.0mAh
+  ES1 battery: 12783.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4346.0mAh
+  ES1 battery: 12655.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1696.1mAh
+Final MD batteries: [4707 3357 4346]
+Final ES batteries: [11202 12655]
+Total reward: 53.0
+Epsilon: 0.056
+
+
+=== Episode 65 ===
+Initial Batteries:
+MDs: [3356 3241 4107]
+ESs: [14030 10745]
+Task 1 (279MB) - Device: MD1
+  Energy used: 334.8mAh
+  MD1 battery: 2906.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4066.0mAh
+  ES1 battery: 10656.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 2860.0mAh
+  ES1 battery: 10549.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3329.0mAh
+  ES1 battery: 10508.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4021.0mAh
+  ES1 battery: 10410.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3289.0mAh
+  ES1 battery: 10350.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3954.0mAh
+  ES1 battery: 10204.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 2804.0mAh
+  ES1 battery: 10074.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3199.0mAh
+  ES1 battery: 9936.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3895.0mAh
+  ES1 battery: 9808.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1733.6mAh
+Final MD batteries: [3199 2804 3895]
+Final ES batteries: [14030  9808]
+Total reward: 52.7
+Epsilon: 0.053
+
+
+=== Episode 66 ===
+Initial Batteries:
+MDs: [3659 4905 3099]
+ESs: [17356 16568]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4869.0mAh
+  ES1 battery: 16485.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3058.0mAh
+  ES1 battery: 16396.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4823.0mAh
+  ES1 battery: 16289.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3632.0mAh
+  ES1 battery: 16248.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3013.0mAh
+  ES1 battery: 16150.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3592.0mAh
+  ES1 battery: 16090.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 2946.0mAh
+  ES1 battery: 15944.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4767.0mAh
+  ES1 battery: 15814.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3502.0mAh
+  ES1 battery: 15676.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 2887.0mAh
+  ES1 battery: 15548.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [3502 4767 2887]
+Final ES batteries: [17356 15548]
+Total reward: 54.8
+Epsilon: 0.050
+
+
+=== Episode 67 ===
+Initial Batteries:
+MDs: [4315 3050 4785]
+ESs: [16092 17464]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3014.0mAh
+  ES1 battery: 17381.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4744.0mAh
+  ES1 battery: 17292.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 2968.0mAh
+  ES1 battery: 17185.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4288.0mAh
+  ES1 battery: 17144.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 4699.0mAh
+  ES0 battery: 15971.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4248.0mAh
+  ES1 battery: 17084.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 4632.0mAh
+  ES0 battery: 15791.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 2912.0mAh
+  ES1 battery: 16954.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 4158.0mAh
+  ES0 battery: 15621.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4573.0mAh
+  ES1 battery: 16826.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1607.5mAh
+Final MD batteries: [4158 2912 4573]
+Final ES batteries: [15621 16826]
+Total reward: 53.9
+Epsilon: 0.048
+
+
+=== Episode 68 ===
+Initial Batteries:
+MDs: [4939 3493 3535]
+ESs: [16660 15104]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3457.0mAh
+  ES1 battery: 15021.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3494.0mAh
+  ES1 battery: 14932.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3411.0mAh
+  ES1 battery: 14825.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4912.0mAh
+  ES1 battery: 14784.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3449.0mAh
+  ES1 battery: 14686.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4872.0mAh
+  ES1 battery: 14626.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3382.0mAh
+  ES1 battery: 14480.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3355.0mAh
+  ES1 battery: 14350.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4782.0mAh
+  ES1 battery: 14212.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3323.0mAh
+  ES1 battery: 14084.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [4782 3355 3323]
+Final ES batteries: [16660 14084]
+Total reward: 54.8
+Epsilon: 0.046
+
+
+=== Episode 69 ===
+Initial Batteries:
+MDs: [4077 4107 3456]
+ESs: [14810 14143]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4071.0mAh
+  ES1 battery: 14060.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3415.0mAh
+  ES1 battery: 13971.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4025.0mAh
+  ES1 battery: 13864.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4050.0mAh
+  ES1 battery: 13823.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3370.0mAh
+  ES1 battery: 13725.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4010.0mAh
+  ES1 battery: 13665.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3303.0mAh
+  ES1 battery: 13519.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3969.0mAh
+  ES1 battery: 13389.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3920.0mAh
+  ES1 battery: 13251.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3244.0mAh
+  ES0 battery: 14651.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1547.1mAh
+Final MD batteries: [3920 3969 3244]
+Final ES batteries: [14651 13251]
+Total reward: 54.5
+Epsilon: 0.043
+
+
+=== Episode 70 ===
+Initial Batteries:
+MDs: [3361 4816 3697]
+ESs: [13229 18938]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4780.0mAh
+  ES1 battery: 18855.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3656.0mAh
+  ES1 battery: 18766.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4734.0mAh
+  ES1 battery: 18659.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3334.0mAh
+  ES1 battery: 18618.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3611.0mAh
+  ES1 battery: 18520.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3294.0mAh
+  ES1 battery: 18460.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3544.0mAh
+  ES1 battery: 18314.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4678.0mAh
+  ES1 battery: 18184.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3204.0mAh
+  ES1 battery: 18046.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3485.0mAh
+  ES1 battery: 17918.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [3204 4678 3485]
+Final ES batteries: [13229 17918]
+Total reward: 54.8
+Epsilon: 0.041
+
+
+=== Episode 71 ===
+Initial Batteries:
+MDs: [4976 3369 3416]
+ESs: [14986 18026]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3333.0mAh
+  ES1 battery: 17943.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3375.0mAh
+  ES1 battery: 17854.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3287.0mAh
+  ES1 battery: 17747.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4949.0mAh
+  ES1 battery: 17706.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3330.0mAh
+  ES1 battery: 17608.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4909.0mAh
+  ES1 battery: 17548.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3263.0mAh
+  ES1 battery: 17402.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3231.0mAh
+  ES0 battery: 14825.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4819.0mAh
+  ES1 battery: 17264.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3204.0mAh
+  ES1 battery: 17136.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1547.5mAh
+Final MD batteries: [4819 3231 3204]
+Final ES batteries: [14825 17136]
+Total reward: 54.5
+Epsilon: 0.039
+
+
+=== Episode 72 ===
+Initial Batteries:
+MDs: [3581 4210 3311]
+ESs: [18046 18619]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4174.0mAh
+  ES1 battery: 18536.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3270.0mAh
+  ES1 battery: 18447.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4128.0mAh
+  ES1 battery: 18340.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3554.0mAh
+  ES1 battery: 18299.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3225.0mAh
+  ES1 battery: 18201.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3514.0mAh
+  ES1 battery: 18141.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3158.0mAh
+  ES1 battery: 17995.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4072.0mAh
+  ES1 battery: 17865.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3424.0mAh
+  ES1 battery: 17727.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3099.0mAh
+  ES1 battery: 17599.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [3424 4072 3099]
+Final ES batteries: [18046 17599]
+Total reward: 54.8
+Epsilon: 0.037
+
+
+=== Episode 73 ===
+Initial Batteries:
+MDs: [3073 4352 3684]
+ESs: [15875 10424]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4316.0mAh
+  ES1 battery: 10341.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3643.0mAh
+  ES1 battery: 10252.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4270.0mAh
+  ES1 battery: 10145.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3046.0mAh
+  ES1 battery: 10104.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3598.0mAh
+  ES1 battery: 10006.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 2949.0mAh
+Task 7 (491MB) - Device: MD2
+  Energy used: 224.6mAh
+  MD2 battery: 3373.0mAh
+Task 8 (439MB) - Device: MD1
+  Energy used: 526.8mAh
+  MD1 battery: 3743.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 2729.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 3174.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1872.2mAh
+Final MD batteries: [2729 3743 3174]
+Final ES batteries: [15875 10006]
+Total reward: 51.3
+Epsilon: 0.035
+
+
+=== Episode 74 ===
+Initial Batteries:
+MDs: [3558 4367 3656]
+ESs: [16394 11313]
+Task 1 (279MB) - Device: ES0
+  Energy used: 137.4mAh
+  MD1 battery: 4331.0mAh
+  ES0 battery: 16291.0mAh
+Task 2 (298MB) - Device: MD2
+  Energy used: 136.3mAh
+  MD2 battery: 3519.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4285.0mAh
+  ES1 battery: 11206.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3531.0mAh
+  ES1 battery: 11165.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3474.0mAh
+  ES1 battery: 11067.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3491.0mAh
+  ES1 battery: 11007.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3407.0mAh
+  ES1 battery: 10861.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4229.0mAh
+  ES1 battery: 10731.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3401.0mAh
+  ES1 battery: 10593.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3348.0mAh
+  ES1 battery: 10465.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1543.9mAh
+Final MD batteries: [3401 4229 3348]
+Final ES batteries: [16291 10465]
+Total reward: 54.6
+Epsilon: 0.034
+
+
+=== Episode 75 ===
+Initial Batteries:
+MDs: [3932 3501 4140]
+ESs: [15508 15960]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3465.0mAh
+  ES1 battery: 15877.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4099.0mAh
+  ES1 battery: 15788.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3419.0mAh
+  ES1 battery: 15681.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3905.0mAh
+  ES1 battery: 15640.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4054.0mAh
+  ES1 battery: 15542.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3865.0mAh
+  ES1 battery: 15482.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3987.0mAh
+  ES1 battery: 15336.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3363.0mAh
+  ES1 battery: 15206.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 3645.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3928.0mAh
+  ES1 battery: 15078.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1509.5mAh
+Final MD batteries: [3645 3363 3928]
+Final ES batteries: [15508 15078]
+Total reward: 54.9
+Epsilon: 0.032
+
+
+=== Episode 76 ===
+Initial Batteries:
+MDs: [4223 3466 4101]
+ESs: [14643 11470]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3430.0mAh
+  ES1 battery: 11387.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4060.0mAh
+  ES1 battery: 11298.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3384.0mAh
+  ES1 battery: 11191.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4196.0mAh
+  ES1 battery: 11150.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4015.0mAh
+  ES1 battery: 11052.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4156.0mAh
+  ES1 battery: 10992.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3948.0mAh
+  ES1 battery: 10846.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3328.0mAh
+  ES1 battery: 10716.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4066.0mAh
+  ES1 battery: 10578.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3889.0mAh
+  ES1 battery: 10450.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [4066 3328 3889]
+Final ES batteries: [14643 10450]
+Total reward: 54.8
+Epsilon: 0.031
+
+
+=== Episode 77 ===
+Initial Batteries:
+MDs: [4121 3984 3935]
+ESs: [14187 19798]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3948.0mAh
+  ES1 battery: 19715.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3894.0mAh
+  ES1 battery: 19626.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3902.0mAh
+  ES1 battery: 19519.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4094.0mAh
+  ES1 battery: 19478.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3849.0mAh
+  ES0 battery: 14066.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4054.0mAh
+  ES1 battery: 19418.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3782.0mAh
+  ES0 battery: 13886.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3846.0mAh
+  ES0 battery: 13725.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3964.0mAh
+  ES0 battery: 13555.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3723.0mAh
+  ES0 battery: 13396.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1669.3mAh
+Final MD batteries: [3964 3846 3723]
+Final ES batteries: [13396 19418]
+Total reward: 53.3
+Epsilon: 0.029
+
+
+=== Episode 78 ===
+Initial Batteries:
+MDs: [4664 3498 4248]
+ESs: [10806 19667]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3462.0mAh
+  ES1 battery: 19584.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4207.0mAh
+  ES1 battery: 19495.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3416.0mAh
+  ES1 battery: 19388.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4637.0mAh
+  ES1 battery: 19347.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4162.0mAh
+  ES1 battery: 19249.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4597.0mAh
+  ES1 battery: 19189.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4095.0mAh
+  ES1 battery: 19043.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3360.0mAh
+  ES1 battery: 18913.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4507.0mAh
+  ES1 battery: 18775.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4036.0mAh
+  ES1 battery: 18647.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [4507 3360 4036]
+Final ES batteries: [10806 18647]
+Total reward: 54.8
+Epsilon: 0.028
+
+
+=== Episode 79 ===
+Initial Batteries:
+MDs: [3944 4393 3827]
+ESs: [10743 16464]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4357.0mAh
+  ES1 battery: 16381.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3786.0mAh
+  ES1 battery: 16292.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4311.0mAh
+  ES1 battery: 16185.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3917.0mAh
+  ES1 battery: 16144.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3741.0mAh
+  ES1 battery: 16046.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3877.0mAh
+  ES1 battery: 15986.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3674.0mAh
+  ES1 battery: 15840.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4255.0mAh
+  ES1 battery: 15710.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3787.0mAh
+  ES1 battery: 15572.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3615.0mAh
+  ES0 battery: 10584.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1547.1mAh
+Final MD batteries: [3787 4255 3615]
+Final ES batteries: [10584 15572]
+Total reward: 54.5
+Epsilon: 0.026
+
+
+=== Episode 80 ===
+Initial Batteries:
+MDs: [4064 4029 4020]
+ESs: [11220 12295]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3993.0mAh
+  ES1 battery: 12212.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3979.0mAh
+  ES1 battery: 12123.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3947.0mAh
+  ES1 battery: 12016.0mAh
+Task 4 (137MB) - Device: MD0
+  Energy used: 64.8mAh
+  MD0 battery: 3999.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3934.0mAh
+  ES1 battery: 11918.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3959.0mAh
+  ES1 battery: 11858.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3867.0mAh
+  ES1 battery: 11712.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3891.0mAh
+  ES1 battery: 11582.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3869.0mAh
+  ES1 battery: 11444.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3808.0mAh
+  ES1 battery: 11316.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1514.4mAh
+Final MD batteries: [3869 3891 3808]
+Final ES batteries: [11220 11316]
+Total reward: 54.9
+Epsilon: 0.025
+
+
+=== Episode 81 ===
+Initial Batteries:
+MDs: [3511 3419 4740]
+ESs: [11298 14868]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3383.0mAh
+  ES1 battery: 14785.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4699.0mAh
+  ES1 battery: 14696.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3337.0mAh
+  ES1 battery: 14589.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3484.0mAh
+  ES1 battery: 14548.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4654.0mAh
+  ES1 battery: 14450.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3444.0mAh
+  ES1 battery: 14390.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 4587.0mAh
+  ES0 battery: 11118.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3281.0mAh
+  ES0 battery: 10957.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3354.0mAh
+  ES0 battery: 10787.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 4528.0mAh
+  ES0 battery: 10628.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1645.9mAh
+Final MD batteries: [3354 3281 4528]
+Final ES batteries: [10628 14390]
+Total reward: 53.5
+Epsilon: 0.024
+
+
+=== Episode 82 ===
+Initial Batteries:
+MDs: [3033 3510 4167]
+ESs: [15904 10557]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3474.0mAh
+  ES1 battery: 10474.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4126.0mAh
+  ES1 battery: 10385.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3428.0mAh
+  ES1 battery: 10278.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3006.0mAh
+  ES1 battery: 10237.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4081.0mAh
+  ES1 battery: 10139.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 2966.0mAh
+  ES1 battery: 10079.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4014.0mAh
+  ES1 battery: 9933.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3372.0mAh
+  ES1 battery: 9803.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 2876.0mAh
+  ES1 battery: 9665.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3955.0mAh
+  ES1 battery: 9537.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [2876 3372 3955]
+Final ES batteries: [15904  9537]
+Total reward: 54.8
+Epsilon: 0.023
+
+
+=== Episode 83 ===
+Initial Batteries:
+MDs: [3781 4944 3331]
+ESs: [10290 12344]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4908.0mAh
+  ES1 battery: 12261.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3290.0mAh
+  ES1 battery: 12172.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4862.0mAh
+  ES1 battery: 12065.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3754.0mAh
+  ES1 battery: 12024.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3245.0mAh
+  ES1 battery: 11926.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3714.0mAh
+  ES1 battery: 11866.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3178.0mAh
+  ES1 battery: 11720.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4806.0mAh
+  ES1 battery: 11590.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3624.0mAh
+  ES1 battery: 11452.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3119.0mAh
+  ES1 battery: 11324.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [3624 4806 3119]
+Final ES batteries: [10290 11324]
+Total reward: 54.8
+Epsilon: 0.022
+
+
+=== Episode 84 ===
+Initial Batteries:
+MDs: [3822 4651 4056]
+ESs: [17332 13296]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4615.0mAh
+  ES1 battery: 13213.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4015.0mAh
+  ES1 battery: 13124.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4569.0mAh
+  ES1 battery: 13017.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3795.0mAh
+  ES1 battery: 12976.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3970.0mAh
+  ES1 battery: 12878.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3755.0mAh
+  ES1 battery: 12818.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3903.0mAh
+  ES1 battery: 12672.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4513.0mAh
+  ES1 battery: 12542.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3665.0mAh
+  ES0 battery: 17162.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3844.0mAh
+  ES0 battery: 17003.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1580.0mAh
+Final MD batteries: [3665 4513 3844]
+Final ES batteries: [17003 12542]
+Total reward: 54.2
+Epsilon: 0.020
+
+
+=== Episode 85 ===
+Initial Batteries:
+MDs: [3309 4451 4039]
+ESs: [11239 17426]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4415.0mAh
+  ES1 battery: 17343.0mAh
+Task 2 (298MB) - Device: ES0
+  Energy used: 149.8mAh
+  MD2 battery: 3998.0mAh
+  ES0 battery: 11129.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4369.0mAh
+  ES1 battery: 17236.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3282.0mAh
+  ES1 battery: 17195.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3953.0mAh
+  ES1 battery: 17097.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3242.0mAh
+  ES1 battery: 17037.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3886.0mAh
+  ES0 battery: 10949.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4313.0mAh
+  ES1 battery: 16907.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3152.0mAh
+  ES1 battery: 16769.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3827.0mAh
+  ES0 battery: 10790.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1603.0mAh
+Final MD batteries: [3152 4313 3827]
+Final ES batteries: [10790 16769]
+Total reward: 54.0
+Epsilon: 0.019
+
+
+=== Episode 86 ===
+Initial Batteries:
+MDs: [3985 4882 3995]
+ESs: [17197 15325]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4846.0mAh
+  ES1 battery: 15242.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3954.0mAh
+  ES1 battery: 15153.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4800.0mAh
+  ES1 battery: 15046.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3958.0mAh
+  ES1 battery: 15005.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3909.0mAh
+  ES1 battery: 14907.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3918.0mAh
+  ES1 battery: 14847.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3842.0mAh
+  ES1 battery: 14701.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4744.0mAh
+  ES1 battery: 14571.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3828.0mAh
+  ES1 battery: 14433.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3783.0mAh
+  ES1 battery: 14305.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [3828 4744 3783]
+Final ES batteries: [17197 14305]
+Total reward: 54.8
+Epsilon: 0.019
+
+
+=== Episode 87 ===
+Initial Batteries:
+MDs: [3813 3229 3368]
+ESs: [17682 10853]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3193.0mAh
+  ES1 battery: 10770.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3327.0mAh
+  ES1 battery: 10681.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3147.0mAh
+  ES1 battery: 10574.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3786.0mAh
+  ES1 battery: 10533.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3282.0mAh
+  ES1 battery: 10435.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3746.0mAh
+  ES1 battery: 10375.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3215.0mAh
+  ES1 battery: 10229.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3091.0mAh
+  ES1 battery: 10099.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3656.0mAh
+  ES0 battery: 17512.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3156.0mAh
+  ES0 battery: 17353.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1580.0mAh
+Final MD batteries: [3656 3091 3156]
+Final ES batteries: [17353 10099]
+Total reward: 54.2
+Epsilon: 0.018
+
+
+=== Episode 88 ===
+Initial Batteries:
+MDs: [3254 3255 3800]
+ESs: [18044 13344]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3219.0mAh
+  ES1 battery: 13261.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3759.0mAh
+  ES1 battery: 13172.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3173.0mAh
+  ES1 battery: 13065.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 3227.0mAh
+  ES0 battery: 17993.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 3714.0mAh
+  ES0 battery: 17872.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 3187.0mAh
+  ES0 battery: 17797.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 3647.0mAh
+  ES0 battery: 17617.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3117.0mAh
+  ES0 battery: 17456.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3097.0mAh
+  ES0 battery: 17286.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 3588.0mAh
+  ES0 battery: 17127.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1693.4mAh
+Final MD batteries: [3097 3117 3588]
+Final ES batteries: [17127 13065]
+Total reward: 53.1
+Epsilon: 0.017
+
+
+=== Episode 89 ===
+Initial Batteries:
+MDs: [3629 4389 4383]
+ESs: [11238 16029]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4353.0mAh
+  ES1 battery: 15946.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4342.0mAh
+  ES1 battery: 15857.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4307.0mAh
+  ES1 battery: 15750.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3602.0mAh
+  ES1 battery: 15709.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4297.0mAh
+  ES1 battery: 15611.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3562.0mAh
+  ES1 battery: 15551.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4230.0mAh
+  ES1 battery: 15405.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 4251.0mAh
+  ES0 battery: 11077.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 3472.0mAh
+  ES0 battery: 10907.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 4171.0mAh
+  ES0 battery: 10748.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1611.1mAh
+Final MD batteries: [3472 4251 4171]
+Final ES batteries: [10748 15405]
+Total reward: 53.9
+Epsilon: 0.016
+
+
+=== Episode 90 ===
+Initial Batteries:
+MDs: [3770 4050 4587]
+ESs: [18556 16258]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4014.0mAh
+  ES1 battery: 16175.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4546.0mAh
+  ES1 battery: 16086.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3968.0mAh
+  ES1 battery: 15979.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3743.0mAh
+  ES1 battery: 15938.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4501.0mAh
+  ES1 battery: 15840.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3703.0mAh
+  ES1 battery: 15780.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4434.0mAh
+  ES1 battery: 15634.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3912.0mAh
+  ES1 battery: 15504.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3613.0mAh
+  ES1 battery: 15366.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4375.0mAh
+  ES1 battery: 15238.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [3613 3912 4375]
+Final ES batteries: [18556 15238]
+Total reward: 54.8
+Epsilon: 0.015
+
+
+=== Episode 91 ===
+Initial Batteries:
+MDs: [4556 3673 4126]
+ESs: [11741 12576]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3637.0mAh
+  ES1 battery: 12493.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4085.0mAh
+  ES1 battery: 12404.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3591.0mAh
+  ES1 battery: 12297.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4529.0mAh
+  ES1 battery: 12256.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4040.0mAh
+  ES1 battery: 12158.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4489.0mAh
+  ES1 battery: 12098.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3973.0mAh
+  ES1 battery: 11952.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3535.0mAh
+  ES1 battery: 11822.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4399.0mAh
+  ES1 battery: 11684.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3914.0mAh
+  ES1 battery: 11556.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [4399 3535 3914]
+Final ES batteries: [11741 11556]
+Total reward: 54.8
+Epsilon: 0.014
+
+
+=== Episode 92 ===
+Initial Batteries:
+MDs: [4693 3908 4579]
+ESs: [19452 13737]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3872.0mAh
+  ES1 battery: 13654.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4538.0mAh
+  ES1 battery: 13565.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3826.0mAh
+  ES1 battery: 13458.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4666.0mAh
+  ES1 battery: 13417.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4493.0mAh
+  ES1 battery: 13319.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4626.0mAh
+  ES1 battery: 13259.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4426.0mAh
+  ES1 battery: 13113.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3770.0mAh
+  ES1 battery: 12983.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4536.0mAh
+  ES1 battery: 12845.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4367.0mAh
+  ES1 battery: 12717.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [4536 3770 4367]
+Final ES batteries: [19452 12717]
+Total reward: 54.8
+Epsilon: 0.014
+
+
+=== Episode 93 ===
+Initial Batteries:
+MDs: [4396 3699 4472]
+ESs: [14005 18792]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3663.0mAh
+  ES1 battery: 18709.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4431.0mAh
+  ES1 battery: 18620.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3617.0mAh
+  ES1 battery: 18513.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 4369.0mAh
+  ES0 battery: 13954.0mAh
+Task 5 (330MB) - Device: MD2
+  Energy used: 151.0mAh
+  MD2 battery: 4280.0mAh
+Task 6 (203MB) - Device: MD0
+  Energy used: 96.1mAh
+  MD0 battery: 4272.0mAh
+Task 7 (491MB) - Device: MD2
+  Energy used: 224.6mAh
+  MD2 battery: 4055.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3561.0mAh
+  ES1 battery: 18383.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4182.0mAh
+  ES1 battery: 18245.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 3996.0mAh
+  ES1 battery: 18117.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1544.3mAh
+Final MD batteries: [4182 3561 3996]
+Final ES batteries: [13954 18117]
+Total reward: 54.6
+Epsilon: 0.013
+
+
+=== Episode 94 ===
+Initial Batteries:
+MDs: [3734 4304 4948]
+ESs: [19489 19918]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4268.0mAh
+  ES1 battery: 19835.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4907.0mAh
+  ES1 battery: 19746.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4222.0mAh
+  ES1 battery: 19639.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3707.0mAh
+  ES1 battery: 19598.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4862.0mAh
+  ES1 battery: 19500.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3667.0mAh
+  ES1 battery: 19440.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4795.0mAh
+  ES1 battery: 19294.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4166.0mAh
+  ES1 battery: 19164.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3577.0mAh
+  ES1 battery: 19026.0mAh
+Task 10 (433MB) - Device: ES1
+  Energy used: 186.9mAh
+  MD2 battery: 4736.0mAh
+  ES1 battery: 18898.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1516.4mAh
+Final MD batteries: [3577 4166 4736]
+Final ES batteries: [19489 18898]
+Total reward: 54.8
+Epsilon: 0.012
+
+
+=== Episode 95 ===
+Initial Batteries:
+MDs: [4607 4836 4612]
+ESs: [19442 13750]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 4800.0mAh
+  ES1 battery: 13667.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4571.0mAh
+  ES1 battery: 13578.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 4754.0mAh
+  ES1 battery: 13471.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4580.0mAh
+  ES1 battery: 13430.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4526.0mAh
+  ES1 battery: 13332.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4540.0mAh
+  ES1 battery: 13272.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4459.0mAh
+  ES1 battery: 13126.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 4698.0mAh
+  ES1 battery: 12996.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 4450.0mAh
+  ES0 battery: 19272.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 4400.0mAh
+  ES0 battery: 19113.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1580.0mAh
+Final MD batteries: [4450 4698 4400]
+Final ES batteries: [19113 12996]
+Total reward: 54.2
+Epsilon: 0.012
+
+
+=== Episode 96 ===
+Initial Batteries:
+MDs: [4121 3247 4729]
+ESs: [14305 17563]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3211.0mAh
+  ES1 battery: 17480.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4688.0mAh
+  ES1 battery: 17391.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3165.0mAh
+  ES1 battery: 17284.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4094.0mAh
+  ES1 battery: 17243.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4643.0mAh
+  ES1 battery: 17145.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4054.0mAh
+  ES1 battery: 17085.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4576.0mAh
+  ES1 battery: 16939.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3109.0mAh
+  ES1 battery: 16809.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3964.0mAh
+  ES1 battery: 16671.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 4517.0mAh
+  ES0 battery: 14146.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1547.1mAh
+Final MD batteries: [3964 3109 4517]
+Final ES batteries: [14146 16671]
+Total reward: 54.5
+Epsilon: 0.011
+
+
+=== Episode 97 ===
+Initial Batteries:
+MDs: [3940 3350 4218]
+ESs: [17227 15099]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3314.0mAh
+  ES1 battery: 15016.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4177.0mAh
+  ES1 battery: 14927.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3268.0mAh
+  ES1 battery: 14820.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 3913.0mAh
+  ES1 battery: 14779.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 4132.0mAh
+  ES1 battery: 14681.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 3873.0mAh
+  ES1 battery: 14621.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 4065.0mAh
+  ES1 battery: 14475.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3212.0mAh
+  ES1 battery: 14345.0mAh
+Task 9 (464MB) - Device: MD0
+  Energy used: 219.6mAh
+  MD0 battery: 3653.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 3866.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1520.7mAh
+Final MD batteries: [3653 3212 3866]
+Final ES batteries: [17227 14345]
+Total reward: 54.8
+Epsilon: 0.011
+
+
+=== Episode 98 ===
+Initial Batteries:
+MDs: [4080 3855 3824]
+ESs: [16099 11490]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3819.0mAh
+  ES1 battery: 11407.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3783.0mAh
+  ES1 battery: 11318.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3773.0mAh
+  ES1 battery: 11211.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4053.0mAh
+  ES1 battery: 11170.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3738.0mAh
+  ES1 battery: 11072.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4013.0mAh
+  ES1 battery: 11012.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 3671.0mAh
+  ES1 battery: 10866.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3717.0mAh
+  ES1 battery: 10736.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 3923.0mAh
+  ES1 battery: 10598.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 3472.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1527.6mAh
+Final MD batteries: [3923 3717 3472]
+Final ES batteries: [16099 10598]
+Total reward: 54.7
+Epsilon: 0.010
+
+
+=== Episode 99 ===
+Initial Batteries:
+MDs: [4374 3436 3088]
+ESs: [18537 18433]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3400.0mAh
+  ES1 battery: 18350.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 3047.0mAh
+  ES1 battery: 18261.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3354.0mAh
+  ES1 battery: 18154.0mAh
+Task 4 (137MB) - Device: ES1
+  Energy used: 66.9mAh
+  MD0 battery: 4347.0mAh
+  ES1 battery: 18113.0mAh
+Task 5 (330MB) - Device: ES1
+  Energy used: 142.4mAh
+  MD2 battery: 3002.0mAh
+  ES1 battery: 18015.0mAh
+Task 6 (203MB) - Device: ES1
+  Energy used: 99.1mAh
+  MD0 battery: 4307.0mAh
+  ES1 battery: 17955.0mAh
+Task 7 (491MB) - Device: ES1
+  Energy used: 211.9mAh
+  MD2 battery: 2935.0mAh
+  ES1 battery: 17809.0mAh
+Task 8 (439MB) - Device: ES1
+  Energy used: 185.1mAh
+  MD1 battery: 3298.0mAh
+  ES1 battery: 17679.0mAh
+Task 9 (464MB) - Device: ES1
+  Energy used: 226.5mAh
+  MD0 battery: 4217.0mAh
+  ES1 battery: 17541.0mAh
+Task 10 (433MB) - Device: ES0
+  Energy used: 217.6mAh
+  MD2 battery: 2876.0mAh
+  ES0 battery: 18378.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1547.1mAh
+Final MD batteries: [4217 3298 2876]
+Final ES batteries: [18378 17541]
+Total reward: 54.5
+Epsilon: 0.010
+
+
+=== Episode 100 ===
+Initial Batteries:
+MDs: [4331 3735 4173]
+ESs: [10635 12522]
+Task 1 (279MB) - Device: ES1
+  Energy used: 117.6mAh
+  MD1 battery: 3699.0mAh
+  ES1 battery: 12439.0mAh
+Task 2 (298MB) - Device: ES1
+  Energy used: 128.6mAh
+  MD2 battery: 4132.0mAh
+  ES1 battery: 12350.0mAh
+Task 3 (359MB) - Device: ES1
+  Energy used: 151.3mAh
+  MD1 battery: 3653.0mAh
+  ES1 battery: 12243.0mAh
+Task 4 (137MB) - Device: ES0
+  Energy used: 76.6mAh
+  MD0 battery: 4304.0mAh
+  ES0 battery: 10584.0mAh
+Task 5 (330MB) - Device: ES0
+  Energy used: 165.8mAh
+  MD2 battery: 4087.0mAh
+  ES0 battery: 10463.0mAh
+Task 6 (203MB) - Device: ES0
+  Energy used: 113.5mAh
+  MD0 battery: 4264.0mAh
+  ES0 battery: 10388.0mAh
+Task 7 (491MB) - Device: ES0
+  Energy used: 246.7mAh
+  MD2 battery: 4020.0mAh
+  ES0 battery: 10208.0mAh
+Task 8 (439MB) - Device: ES0
+  Energy used: 216.2mAh
+  MD1 battery: 3597.0mAh
+  ES0 battery: 10047.0mAh
+Task 9 (464MB) - Device: ES0
+  Energy used: 259.4mAh
+  MD0 battery: 4174.0mAh
+  ES0 battery: 9877.0mAh
+Task 10 (433MB) - Device: MD2
+  Energy used: 198.1mAh
+  MD2 battery: 3821.0mAh
+
+Episode Summary:
+Completed tasks: 10/10
+Total energy consumed: 1673.9mAh
+Final MD batteries: [4174 3597 3821]
+Final ES batteries: [ 9877 12243]
+Total reward: 53.3
+Epsilon: 0.010
